@@ -1,32 +1,35 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <Header />
+    <Panel />
+    <Musicblog />
+
     <router-view />
   </div>
 </template>
-
+<script>
+    import Header from "@/components/Header";
+    import Panel from "@/components/Panel";
+    import Musicblog from "@/components/Music_blog";
+    export default {
+    	components: {Header, Panel, Musicblog}
+    }
+</script>
 <style>
-#app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+ ::-webkit-scrollbar {
+  width: 9px;
 }
 
-#nav {
-  padding: 30px;
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+::-webkit-scrollbar-thumb {
+  background: #888; 
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+} /* Для scrollbar */
+
 </style>
