@@ -65,7 +65,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v137', '.aud137', '.repl137', '.down137')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud137', '.aud134', '.repl137', 'r_icon_137', '.down137')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud137', '.aud136', '.repl137', 'r_icon_137', '.down137')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl137" @click="Play10('.pl137', '.repl137', '.down137')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud137" @timeupdate="Update10('.aud137', '.st137', '.audio_p137_m10')" src="../sound/DOOM_2016/doom_06. Hellwalker.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud137', '.aud138', '.repl137', '.r_icon_137', '.down137')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 

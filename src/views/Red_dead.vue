@@ -395,7 +395,7 @@
 			   	  <div class="VL_4" @click="C4_2('.l_of_v24', '.a24', '.repl24', '.down24')"></div>
 			   </div>
 
-			   <button class="prev2" @click="Prev2('.a24', '.a23', '.repl24', '.r_icon_24', '.down24')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev2" @click="Prev2('.a24', '.A23', '.repl24', '.r_icon_24', '.down24')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play2 pl24" @click="Play2('.pl24', '.repl24', '.down24')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio @timeupdate="Update2('.a24', '.st24', '.audio_p24_m2')" class="aud2 a24" src="../sound/RDR2/May I stand unshaken.mp3"></audio></button>
 			   <button class="next2" @click="Next2('.a24', '.a25', '.repl24', '.r_icon_24', '.down24')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -760,13 +760,15 @@
       	    opov_1_block.classList.add("show_n_block_anim");
             
       	    opov_1_block.children[0].children[0].textContent = `${opov_1_name} - стоит на паузе`;
-      	    opov_1_block_children_2.src = "../assets/img2/RDR2_button.png";
 
       	     REPL_ELEM_1.classList.add('sh6');
+      	     DOWN_ELEM_1.classList.add('d_first_anim2');
 
       	    setTimeout(() => {
                REPL_ELEM_1.classList.remove('sh5');
+               DOWN_ELEM_1.classList.remove('d_first_move2');
                REPL_ELEM_1.classList.remove('sh6');
+               DOWN_ELEM_1.classList.remove('d_first_anim2');
       	    }, 1100);
 
       	    setTimeout(() => {
@@ -845,10 +847,13 @@
             opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`;
 
             REPL_ELEM_2.classList.add('sh6');
+            DOWN_ELEM_2.classList.add('d_first_anim2');
 
       	    setTimeout(() => {
                REPL_ELEM_2.classList.remove('sh5');
+               DOWN_ELEM_2.classList.remove('d_first_move2');
                REPL_ELEM_2.classList.remove('sh6');
+               DOWN_ELEM_2.classList.remove('d_first_anim2');
       	    }, 1100);
 
             setTimeout(() => {

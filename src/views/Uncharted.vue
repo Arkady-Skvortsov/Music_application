@@ -5,7 +5,7 @@
 		    <div class="sound_block3" @mouseover="show_repeat3('.repl31', '.down31')">
 			   <p class="name3">#1 A Normal Life</p>
 
-			   <div class="audio_pole_m3 audio_p31_m3" @click="Perek3($event, '.aud31', '.audio_p31_m3')" @mouseouver="Show_time3('.Aud_t31')" @mousemove="Run_block3($event, '.audio_p31_m3', '.aud31', '.Aud_t31')" @mouseout="Time_out3('.Aud_t31')">
+			   <div class="audio_pole_m3 audio_p31_m3" @click="Perek3($event, '.aud31', '.audio_p31_m3')" @mouseover="Show_time3('.Aud_t31')" @mousemove="Run_block3($event, '.audio_p31_m3', '.aud31', '.Aud_t31')" @mouseout="Time_out3('.Aud_t31')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -52,7 +52,7 @@
 		    <div class="sound_block3" @mouseover="show_repeat3('.repl32', '.down32')">
 			   <p class="name3">#2 Once a Theif....</p>
 
-			   <div class="audio_pole_m3 audio_p32_m3" @click="Perek3($event, '.aud32', '.audio_p32_m3')" @mouseouver="Show_time3('.Aud_t32')" @mousemove="Run_block3($event, '.audio_p32_m3', '.aud32', '.Aud_t32')" @mouseout="Time_out3('.Aud_t32')">
+			   <div class="audio_pole_m3 audio_p32_m3" @click="Perek3($event, '.aud32', '.audio_p32_m3')" @mouseover="Show_time3('.Aud_t32')" @mousemove="Run_block3($event, '.audio_p32_m3', '.aud32', '.Aud_t32')" @mouseout="Time_out3('.Aud_t32')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -99,7 +99,7 @@
 		    <div class="sound_block3" @mouseover="show_repeat3('.repl33', '.down33')">
 			   <p class="name3 text2_mobile_3">#3 The Brothers Drake</p>
 
-			   <div class="audio_pole_m3 audio_p33_m3" @click="Perek3($event, '.aud33', '.audio_p33_m3')" @mouseouver="Show_time3('.Aud_t33')" @mousemove="Run_block3($event, '.audio_p33_m3', '.aud33', '.Aud_t33')" @mouseout="Time_out3('.Aud_t33')">
+			   <div class="audio_pole_m3 audio_p33_m3" @click="Perek3($event, '.aud33', '.audio_p33_m3')" @mouseover="Show_time3('.Aud_t33')" @mousemove="Run_block3($event, '.audio_p33_m3', '.aud33', '.Aud_t33')" @mouseout="Time_out3('.Aud_t33')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -146,7 +146,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl34', '.down34')">
 			   <p class="name3 te1 text2_mobile_4">#4 The Grave of Henry Avery</p>
 
-			   <div class="audio_pole_m3 audio_p34_m3" @click="Perek3($event, '.aud34', '.audio_p34_m3')" @mouseouver="Show_time3('.Aud_t34')" @mousemove="Run_block3($event, '.audio_p34_m3', '.aud34', '.Aud_t34')" @mouseout="Time_out3('.Aud_t34')">
+			   <div class="audio_pole_m3 audio_p34_m3" @click="Perek3($event, '.aud34', '.audio_p34_m3')" @mouseover="Show_time3('.Aud_t34')" @mousemove="Run_block3($event, '.audio_p34_m3', '.aud34', '.Aud_t34')" @mouseout="Time_out3('.Aud_t34')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -193,7 +193,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl35', '.down35')">
 			   <p class="name3 text2_mobile_5">#5 The Twelve Towers</p>
 
-			   <div class="audio_pole_m3 audio_p35_m3" @click="Perek3($event, '.aud35', '.audio_p35_m3')" @mouseouver="Show_time3('.Aud_t35')" @mousemove="Run_block3($event, '.audio_p35_m3', '.aud35', '.Aud_t35')" @mouseout="Time_out3('.Aud_t35')">
+			   <div class="audio_pole_m3 audio_p35_m3" @click="Perek3($event, '.aud35', '.audio_p35_m3')" @mouseover="Show_time3('.Aud_t35')" @mousemove="Run_block3($event, '.audio_p35_m3', '.aud35', '.Aud_t35')" @mouseout="Time_out3('.Aud_t35')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -240,7 +240,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl36', '.down36')">
 			   <p class="name3 text2_mobile_6">#6 Race of Libertalia</p>
 
-			   <div class="audio_pole_m3 audio_p36_m3" @click="Perek3($event, '.aud36', '.audio_p36_m3')" @mouseouver="Show_time3('.Aud_t36')" @mousemove="Run_block3($event, '.audio_p36_m3', '.aud36', '.Aud_t36')" @mouseout="Time_out3('.Aud_t36')">
+			   <div class="audio_pole_m3 audio_p36_m3" @click="Perek3($event, '.aud36', '.audio_p36_m3')" @mouseover="Show_time3('.Aud_t36')" @mousemove="Run_block3($event, '.audio_p36_m3', '.aud36', '.Aud_t36')" @mouseout="Time_out3('.Aud_t36')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -287,7 +287,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl37', '.down37')">
 			   <p class="name3">#7 New Devon</p>
 
-			   <div class="audio_pole_m3 audio_p37_m3" @click="Perek3($event, '.aud37', '.audio_p37_m3')" @mouseouver="Show_time3('.Aud_t37')" @mousemove="Run_block3($event, '.audio_p37_m3', '.aud37', '.Aud_t37')" @mouseout="Time_out3('.Aud_t37')">
+			   <div class="audio_pole_m3 audio_p37_m3" @click="Perek3($event, '.aud37', '.audio_p37_m3')" @mouseover="Show_time3('.Aud_t37')" @mousemove="Run_block3($event, '.audio_p37_m3', '.aud37', '.Aud_t37')" @mouseout="Time_out3('.Aud_t37')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -334,7 +334,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl38', '.down38')">
 			   <p class="name3 text2_mobile_8">#8 At Sea</p>
 
-			   <div class="audio_pole_m3 audio_p38_m3" @click="Perek3($event, '.aud38', '.audio_p38_m3')" @mouseouver="Show_time3('.Aud_t38')" @mousemove="Run_block3($event, '.audio_p38_m3', '.aud38', '.Aud_t38')" @mouseout="Time_out3('.Aud_t38')">
+			   <div class="audio_pole_m3 audio_p38_m3" @click="Perek3($event, '.aud38', '.audio_p38_m3')" @mouseover="Show_time3('.Aud_t38')" @mousemove="Run_block3($event, '.audio_p38_m3', '.aud38', '.Aud_t38')" @mouseout="Time_out3('.Aud_t38')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -381,7 +381,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl39', '.down39')">
 			   <p class="name3">#9 A thief's end</p>
 
-			   <div class="audio_pole_m3 audio_p39_m3" @click="Perek3($event, '.aud39', '.audio_p39_m3')" @mouseouver="Show_time3('.Aud_t39')" @mousemove="Run_block3($event, '.audio_p39_m3', '.aud39', '.Aud_t39')" @mouseout="Time_out3('.Aud_t39')">
+			   <div class="audio_pole_m3 audio_p39_m3" @click="Perek3($event, '.aud39', '.audio_p39_m3')" @mouseover="Show_time3('.Aud_t39')" @mousemove="Run_block3($event, '.audio_p39_m3', '.aud39', '.Aud_t39')" @mouseout="Time_out3('.Aud_t39')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -428,7 +428,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl40', '.down40')">
 			   <p class="name3">#10 Marooned</p>
 
-			   <div class="audio_pole_m3 audio_p40_m3" @click="Perek3($event, '.aud40', '.audio_p40_m3')" @mouseouver="Show_time3('.Aud_t40')" @mousemove="Run_block3($event, '.audio_p40_m3', '.audud40', '.Aud_t40')" @mouseout="Time_out3('.Aud_t40')">
+			   <div class="audio_pole_m3 audio_p40_m3" @click="Perek3($event, '.aud40', '.audio_p40_m3')" @mouseover="Show_time3('.Aud_t40')" @mousemove="Run_block3($event, '.audio_p40_m3', '.audud40', '.Aud_t40')" @mouseout="Time_out3('.Aud_t40')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -475,7 +475,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl41', '.down41')">
 			   <p class="name3 te2 text2_mobile_11">#11 Meet me in paradise</p>
 
-			   <div class="audio_pole_m3 audio_p41_m3" @click="Perek3($event, '.aud41', '.audio_p41_m3')" @mouseouver="Show_time3('.Aud_t41')" @mousemove="Run_block3($event, '.audio_p41_m3', '.aud41', '.Aud_t41')" @mouseout="Time_out3('.Aud_t41')">
+			   <div class="audio_pole_m3 audio_p41_m3" @click="Perek3($event, '.aud41', '.audio_p41_m3')" @mouseover="Show_time3('.Aud_t41')" @mousemove="Run_block3($event, '.audio_p41_m3', '.aud41', '.Aud_t41')" @mouseout="Time_out3('.Aud_t41')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -522,7 +522,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl42', '.down42')">
 			   <p class="name3 te3 text2_mobile_12">#12 Hidden in Plain Sight</p>
 
-			   <div class="audio_pole_m3 audio_p42_m3" @click="Perek3($event, '.aud42', '.audio_p42_m3')" @mouseouver="Show_time3('.Aud_t42')" @mousemove="Run_block3($event, '.audio_p42_m3', '.aud42', '.Aud_t42')" @mouseout="Time_out3('.Aud_t42')">
+			   <div class="audio_pole_m3 audio_p42_m3" @click="Perek3($event, '.aud42', '.audio_p42_m3')" @mouseover="Show_time3('.Aud_t42')" @mousemove="Run_block3($event, '.audio_p42_m3', '.aud42', '.Aud_t42')" @mouseout="Time_out3('.Aud_t42')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -569,7 +569,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl43', '.down43')">
 			   <p class="name3">#13 No escape</p>
 
-			   <div class="audio_pole_m3 audio_p43_m3" @click="Perek3($event, '.aud43', '.audio_p43_m3')" @mouseouver="Show_time3('.Aud_t43')" @mousemove="Run_block3($event, '.audio_p43_m3', '.aud43', '.Aud_t43')" @mouseout="Time_out3('.Aud_t43')">
+			   <div class="audio_pole_m3 audio_p43_m3" @click="Perek3($event, '.aud43', '.audio_p43_m3')" @mouseover="Show_time3('.Aud_t43')" @mousemove="Run_block3($event, '.audio_p43_m3', '.aud43', '.Aud_t43')" @mouseout="Time_out3('.Aud_t43')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -616,7 +616,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl44', '.down44')">
 			   <p class="name3 text2_mobile_14">#14 One Last Time</p>
 
-			   <div class="audio_pole_m3 audio_p44_m3" @click="Perek3($event, '.aud44', '.audio_p44_m3')" @mouseouver="Show_time3('.Aud_t44')" @mousemove="Run_block3($event, '.audio_p44_m3', '.aud44', '.Aud_t44')" @mouseout="Time_out3('.Aud_t44')">
+			   <div class="audio_pole_m3 audio_p44_m3" @click="Perek3($event, '.aud44', '.audio_p44_m3')" @mouseover="Show_time3('.Aud_t44')" @mousemove="Run_block3($event, '.audio_p44_m3', '.aud44', '.Aud_t44')" @mouseout="Time_out3('.Aud_t44')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -663,7 +663,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl45', '.down45')">
 			   <p class="name3 text2_mobile_15">#15 Brother's Keeper</p>
 
-			   <div class="audio_pole_m3 audio_p45_m3"  @click="Perek3($event, '.aud45', '.audio_p45_m3')" @mouseouver="Show_time3('.Aud_t45')" @mousemove="Run_block3($event, '.audio_p45_m3', '.aud45', '.Aud_t45')" @mouseout="Time_out3('.Aud_t45')">
+			   <div class="audio_pole_m3 audio_p45_m3"  @click="Perek3($event, '.aud45', '.audio_p45_m3')" @mouseover="Show_time3('.Aud_t45')" @mousemove="Run_block3($event, '.audio_p45_m3', '.aud45', '.Aud_t45')" @mouseout="Time_out3('.Aud_t45')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -1257,12 +1257,12 @@
 
       Show_time3(t_block1) {
           let time_block = document.querySelector(t_block1);
-      	  time_block.classList.add('T_aud_1');
+      	  time_block.classList.add('T_aud_2');
       },
 
       Time_out3(t_block2) {
       	  let time_block = document.querySelector(t_block2);
-      	  time_block.classList.remove('T_aud_1');
+      	  time_block.classList.remove('T_aud_2');
       },
 
       Run_block3(event, M_Pole, Aud3, t_block4) {
