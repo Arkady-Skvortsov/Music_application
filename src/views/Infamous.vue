@@ -42,7 +42,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_106" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down106" @click="Download8('.down106', 'Infamous Second Son - Second Son', '.d_icon_106')" @mouseout="down_hide8('.down106')">
+			   <div class="Download_button8 down106" @click="Download8('.down106', 'Infamous Second Son - Second Son')" @mouseout="down_hide8('.down106')">
 			   	  <vue-fontawesome icon="download" class="d_icon_106" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -89,7 +89,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_107" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down107" @click="Download8('.down107', 'Infamous Second Son - The Vandal King', '.d_icon_107')" @mouseout="down_hide8('.down107')">
+			   <div class="Download_button8 down107" @click="Download8('.down107', 'Infamous Second Son - The Vandal King')" @mouseout="down_hide8('.down107')">
 			   	  <vue-fontawesome icon="download" class="d_icon_107" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -136,7 +136,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_108" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button8 down108" @click="Download8('.down108', 'Infamous Second Son - The Vandal King', '.d_icon_108')" @mouseout="down_hide8('.down108')">
+			    <div class="Download_button8 down108" @click="Download8('.down108', 'Infamous Second Son - The Vandal King')" @mouseout="down_hide8('.down108')">
 			   	  <vue-fontawesome icon="download" class="d_icon_108" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -183,7 +183,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_109" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down109" @click="Download8('.down109', 'Infamous Second Son - Conflict Resolution', '.d_icon_109')" @mouseout="down_hide8('.down109')">
+			   <div class="Download_button8 down109" @click="Download8('.down109', 'Infamous Second Son - Conflict Resolution')" @mouseout="down_hide8('.down109')">
 			   	  <vue-fontawesome icon="download" class="d_icon_109" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -230,7 +230,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_110" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down110" @click="Download8('.down110', 'Infamous Second Son - Brothers', '.d_icon_110')" @mouseout="down_hide8('.down110')">
+			   <div class="Download_button8 down110" @click="Download8('.down110', 'Infamous Second Son - Brothers')" @mouseout="down_hide8('.down110')">
 			   	  <vue-fontawesome icon="download" class="d_icon_110" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -277,7 +277,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_111" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down111" @click="Download8('.down111', 'Infamous Second Son - Double Crossed', '.d_icon_111')" @mouseout="down_hide8('.down111')">
+			   <div class="Download_button8 down111" @click="Download8('.down111', 'Infamous Second Son - Double Crossed')" @mouseout="down_hide8('.down111')">
 			   	  <vue-fontawesome icon="download" class="d_icon_111" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -324,7 +324,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_112" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down112" @click="Download8('.down112', 'Infamous Second Son - Henry Daughtry', '.d_icon_112')" @mouseout="down_hide8('.down112')">
+			   <div class="Download_button8 down112" @click="Download8('.down112', 'Infamous Second Son - Henry Daughtry')" @mouseout="down_hide8('.down112')">
 			   	  <vue-fontawesome icon="download" class="d_icon_112" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -371,7 +371,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_113" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down113" @click="Download8('.down113', 'Infamous Second Son - The Bio-Terrorist Threat', '.d_icon_113')" @mouseout="down_hide8('.down113')">
+			   <div class="Download_button8 down113" @click="Download8('.down113', 'Infamous Second Son - The Bio-Terrorist Threat')" @mouseout="down_hide8('.down113')">
 			   	  <vue-fontawesome icon="download" class="d_icon_113" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -418,7 +418,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_114" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down114" @click="Download8('.down114', 'Infamous Second Son - The Call', '.d_icon_114')" @mouseout="down_hide8('.down114')">
+			   <div class="Download_button8 down114" @click="Download8('.down114', 'Infamous Second Son - The Call')" @mouseout="down_hide8('.down114')">
 			   	  <vue-fontawesome icon="download" class="d_icon_114" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -465,7 +465,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_115" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down115" @click="Download8('.down115', 'Infamous Second Son - Cumulonimbus', '.d_icon_115')" @mouseout="down_hide8('.down115')">
+			   <div class="Download_button8 down115" @click="Download8('.down115', 'Infamous Second Son - Cumulonimbus')" @mouseout="down_hide8('.down115')">
 			   	  <vue-fontawesome icon="download" class="d_icon_115" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -512,7 +512,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_116" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down116" @click="Download8('.down116', 'Infamous Second Son - Higher Elevation', '.d_icon_116')" @mouseout="down_hide8('.down116')">
+			   <div class="Download_button8 down116" @click="Download8('.down116', 'Infamous Second Son - Higher Elevation')" @mouseout="down_hide8('.down116')">
 			   	  <vue-fontawesome icon="download" class="d_icon_116" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -559,7 +559,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_117" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down117" @click="Download8('.down117', 'Infamous Second Son - Owning the Future', '.d_icon_117')" @mouseout="down_hide8('.down117')">
+			   <div class="Download_button8 down117" @click="Download8('.down117', 'Infamous Second Son - Owning the Future')" @mouseout="down_hide8('.down117')">
 			   	  <vue-fontawesome icon="download" class="d_icon_117" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -606,7 +606,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_118" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down118" @click="Download8('.down118', 'Infamous Second Son - Smoke and Mirrors', '.d_icon_118')" @mouseout="down_hide8('.down118')">
+			   <div class="Download_button8 down118" @click="Download8('.down118', 'Infamous Second Son - Smoke and Mirrors')" @mouseout="down_hide8('.down118')">
 			   	  <vue-fontawesome icon="download" class="d_icon_118" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -653,7 +653,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_119" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down119" @click="Download8('.down119', 'Infamous Second Son - Enemy Territory', '.d_icon_119')" @mouseout="down_hide8('.down119')">
+			   <div class="Download_button8 down119" @click="Download8('.down119', 'Infamous Second Son - Enemy Territory')" @mouseout="down_hide8('.down119')">
 			   	  <vue-fontawesome icon="download" class="d_icon_119" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -700,7 +700,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_120" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button8 down120" @click="Download8('.down120', 'Infamous Second Son - Alibi', '.d_icon_120')" @mouseout="down_hide8('.down120')">
+			   <div class="Download_button8 down120" @click="Download8('.down120', 'Infamous Second Son - Alibi')" @mouseout="down_hide8('.down120')">
 			   	  <vue-fontawesome icon="download" class="d_icon_120" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -874,48 +874,17 @@
       	}
       },
               /* Download file function() :) */
-      Download8(d_button, d_name, d_icon) {
+      Download8(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim8');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move8');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim8');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1800,14 +1769,14 @@
     	display: none;
     }
 
-    .audio_collection_block8 .sound_block8 .l_of_vol.L_show8 {
+    .audio_collection_block8 .sound_block8 .l_of_vol8.L_show8 {
     	display: block;
     }
 
     .audio_collection_block8 .sound_block8 .l_of_vol8 > div {
     	width: 5px;
     	position: absolute;
-    	background: white;
+    	background: rgba(51, 204, 0, .8);
     	cursor: pointer;
     	transition: .9s;
     	-o-transition: .9s;

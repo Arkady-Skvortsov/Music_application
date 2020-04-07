@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_61" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down61" @click="Download5('.down61', 'God of War - God of War', '.d_icon_61')" @mouseout="down_hide5('.down61')">
+			   <div class="Download_button5 down61" @click="Download5('.down61', 'God of War - God of War')" @mouseout="down_hide5('.down61')">
 			   	  <vue-fontawesome icon="download" class="d_icon_61" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_62" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down62" @click="Download5('.down62', 'God of War - Ashes', '.d_icon_62')" @mouseout="down_hide5('.down62')">
+			   <div class="Download_button5 down62" @click="Download5('.down62', 'God of War - Ashes')" @mouseout="down_hide5('.down62')">
 			   	  <vue-fontawesome icon="download" class="d_icon_62" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_63" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down63" @click="Download5('.down63', 'God of War - Salvation', '.d_icon_63')" @mouseout="down_hide5('.down63')">
+			   <div class="Download_button5 down63" @click="Download5('.down63', 'God of War - Salvation')" @mouseout="down_hide5('.down63')">
 			   	  <vue-fontawesome icon="download" class="d_icon_63" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_64" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down64" @click="Download5('.down64', 'God of War - Memories of Mother', '.d_icon_64')" @mouseout="down_hide5('.down64')">
+			   <div class="Download_button5 down64" @click="Download5('.down64', 'God of War - Memories of Mother')" @mouseout="down_hide5('.down64')">
 			   	  <vue-fontawesome icon="download" class="d_icon_64" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_65" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down65" @click="Download5('.down65', 'God of War - Valkyries', '.d_icon_65')" @mouseout="down_hide5('.down65')">
+			   <div class="Download_button5 down65" @click="Download5('.down65', 'God of War - Valkyries')" @mouseout="down_hide5('.down65')">
 			   	  <vue-fontawesome icon="download" class="d_icon_65" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_66" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down66" @click="Download5('.down66', 'God of War - Witch of the Woods', '.d_icon_66')" @mouseout="down_hide5('.down66')">
+			   <div class="Download_button5 down66" @click="Download5('.down66', 'God of War - Witch of the Woods')" @mouseout="down_hide5('.down66')">
 			   	  <vue-fontawesome icon="download" class="d_icon_66" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_67" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down67" @click="Download5('.down67', 'God of War - The Dragon', '.d_icon_67')" @mouseout="down_hide5('.down67')">
+			   <div class="Download_button5 down67" @click="Download5('.down67', 'God of War - The Dragon')" @mouseout="down_hide5('.down67')">
 			   	  <vue-fontawesome icon="download" class="d_icon_67" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -370,7 +370,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_68" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down68" @click="Download5('.down68', 'God of War - Deliverance', '.d_icon_68')" @mouseout="down_hide5('.down68')">
+			   <div class="Download_button5 down68" @click="Download5('.down68', 'God of War - Deliverance')" @mouseout="down_hide5('.down68')">
 			   	  <vue-fontawesome icon="download" class="d_icon_68" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_69" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down69" @click="Download5('.down69', 'God of War - The Summit', '.d_icon_69')" @mouseout="down_hide5('.down69')">
+			   <div class="Download_button5 down69" @click="Download5('.down69', 'God of War - The Summit')" @mouseout="down_hide5('.down69')">
 			   	  <vue-fontawesome icon="download" class="d_icon_69" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_70" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down70" @click="Download5('.down70', 'God of War - Stone Mason', '.d_icon_70')" @mouseout="down_hide5('.down70')">
+			   <div class="Download_button5 down70" @click="Download5('.down70', 'God of War - Stone Mason')" @mouseout="down_hide5('.down70')">
 			   	  <vue-fontawesome icon="download" class="d_icon_70" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_72" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down72" @click="Download5('.down72', 'God of War - Epilogue', '.d_icon_72')" @mouseout="down_hide5('.down72')">
+			   <div class="Download_button5 down72" @click="Download5('.down72', 'God of War - Epilogue')" @mouseout="down_hide5('.down72')">
 			   	  <vue-fontawesome icon="download" class="d_icon_72" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_73" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down73" @click="Download5('.down73', 'God of War - Lullaby of the Giants', '.d_icon_73')" @mouseout="down_hide5('.down73')">
+			   <div class="Download_button5 down73" @click="Download5('.down73', 'God of War - Lullaby of the Giants')" @mouseout="down_hide5('.down73')">
 			   	  <vue-fontawesome icon="download" class="d_icon_73" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_74" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down74" @click="Download5('.down74', 'God of War - A Giant`s Prayer', '.d_icon_74')" @mouseout="down_hide5('.down74')">
+			   <div class="Download_button5 down74" @click="Download5('.down74', 'God of War - A Giant`s Prayer')" @mouseout="down_hide5('.down74')">
 			   	  <vue-fontawesome icon="download" class="d_icon_74" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_75" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button5 down75" @click="Download5('.down75', 'God of War - Magni and Modi', '.d_icon_75')" @mouseout="down_hide5('.down75')">
+			   <div class="Download_button5 down75" @click="Download5('.down75', 'God of War - Magni and Modi')" @mouseout="down_hide5('.down75')">
 			   	  <vue-fontawesome icon="download" class="d_icon_75" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -873,48 +873,17 @@
       	}
       },
               /* Download file function() :) */
-      Download5(d_button, d_name, d_icon) {
+      Download5(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim5');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move5');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim5');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1084,7 +1053,7 @@
 
       	  opov_4_block.classList.add('show_n_block_anim');
             
-          opov_4_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`;
+          opov_4_block.children[0].children[0].textContent = `Громкость ${opov_4_name} - 100%`;
 
           REPL_ELEM_6.classList.add('Rep_6');
           DOWN_ELEM_6.classList.add('d_first_anim5');

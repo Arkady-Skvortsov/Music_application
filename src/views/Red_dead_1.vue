@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_91" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button7 down91" @click="Download7('.down91', 'Red Dead Redemption - Main Theme', '.d_icon_91')" @mouseout="down_hide7('.down91')">
+			    <div class="Download_button7 down91" @click="Download7('.down91', 'Red Dead Redemption - Main Theme')" @mouseout="down_hide7('.down91')">
 			   	  <vue-fontawesome icon="download" class="d_icon_91" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -88,11 +88,11 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_92" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down92" @click="Download7('.down92', 'Red Dead Redemption - The shootist', '.d_icon_92')" @mouseout="down_hide7('.down92')">
+			   <div class="Download_button7 down92" @click="Download7('.down92', 'Red Dead Redemption - The shootist')" @mouseout="down_hide7('.down92')">
 			   	  <vue-fontawesome icon="download" class="d_icon_92" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Time_of_audio7">
+			    <div class="Time_of_audio7 Aud_t92">
 			   	   <span id="t7">00:00</span>
 			   </div>
 		    </div> 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_93" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down93" @click="Download7('.down93', 'Red Dead Redemption - HorsePlay', '.d_icon_93')" @mouseout="down_hide7('.down93')">
+			   <div class="Download_button7 down93" @click="Download7('.down93', 'Red Dead Redemption - HorsePlay')" @mouseout="down_hide7('.down93')">
 			   	  <vue-fontawesome icon="download" class="d_icon_93" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_94" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down94" @click="Download7('.down94', 'Red Dead Redemption - Luz y Sombra', '.d_icon_94')" @mouseout="down_hide7('.down94')">
+			   <div class="Download_button7 down94" @click="Download7('.down94', 'Red Dead Redemption - Luz y Sombra')" @mouseout="down_hide7('.down94')">
 			   	  <vue-fontawesome icon="download" class="d_icon_94" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_95" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down95" @click="Download7('.down95', 'Red Dead Redemption - The Outlaw`s Return', '.d_icon_95')" @mouseout="down_hide7('.down95')">
+			   <div class="Download_button7 down95" @click="Download7('.down95', 'Red Dead Redemption - The Outlaw`s Return')" @mouseout="down_hide7('.down95')">
 			   	  <vue-fontawesome icon="download" class="d_icon_95" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_96" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down96" @click="Download7('.down96', 'Red Dead Redemption - Far Away', '.d_icon_96')" @mouseout="down_hide7('.down96')">
+			   <div class="Download_button7 down96" @click="Download7('.down96', 'Red Dead Redemption - Far Away')" @mouseout="down_hide7('.down96')">
 			   	  <vue-fontawesome icon="download" class="d_icon_96" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_97" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down97" @click="Download7('.down97', 'Red Dead Redemption - Triggernometry', '.d_icon_97')" @mouseout="down_hide7('.down97')">
+			   <div class="Download_button7 down97" @click="Download7('.down97', 'Red Dead Redemption - Triggernometry')" @mouseout="down_hide7('.down97')">
 			   	  <vue-fontawesome icon="download" class="d_icon_97" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -370,7 +370,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_98" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down98" @click="Download7('.down98', 'Red Dead Redemption - Estansia', '.d_icon_98')" @mouseout="down_hide7('.down98')">
+			   <div class="Download_button7 down98" @click="Download7('.down98', 'Red Dead Redemption - Estansia')" @mouseout="down_hide7('.down98')">
 			   	  <vue-fontawesome icon="download" class="d_icon_98" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_99" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down99" @click="Download7('.down99', 'Red Dead Redemption - Gun Play', '.d_icon_99')" @mouseout="down_hide7('.down99')">
+			   <div class="Download_button7 down99" @click="Download7('.down99', 'Red Dead Redemption - Gun Play')" @mouseout="down_hide7('.down99')">
 			   	  <vue-fontawesome icon="download" class="d_icon_99" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_100" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down100" @click="Download7('.down100', 'Red Dead Redemption - El Club de los Cuerpos', '.d_icon_100')" @mouseout="down_hide7('.down100')">
+			   <div class="Download_button7 down100" @click="Download7('.down100', 'Red Dead Redemption - El Club de los Cuerpos')" @mouseout="down_hide7('.down100')">
 			   	  <vue-fontawesome icon="download" class="d_icon_100" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_101" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down101" @click="Download7('.down101', 'Red Dead Redemption - El Club de los Cuerpos', '.d_icon_101')" @mouseout="down_hide7('.down101')">
+			   <div class="Download_button7 down101" @click="Download7('.down101', 'Red Dead Redemption - El Club de los Cuerpos')" @mouseout="down_hide7('.down101')">
 			   	  <vue-fontawesome icon="download" class="d_icon_101" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_102" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down102" @click="Download7('.down102', 'Red Dead Redemption - Dead and Alley', '.d_icon_102')" @mouseout="down_hide7('.down102')">
+			   <div class="Download_button7 down102" @click="Download7('.down102', 'Red Dead Redemption - Dead and Alley')" @mouseout="down_hide7('.down102')">
 			   	  <vue-fontawesome icon="download" class="d_icon_101" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_103" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down103" @click="Download7('.down103', 'Red Dead Redemption - Bury Me Not On The Lone Prairi', '.d_icon_103')" @mouseout="down_hide7('.down103')">
+			   <div class="Download_button7 down103" @click="Download7('.down103', 'Red Dead Redemption - Bury Me Not On The Lone Prairi')" @mouseout="down_hide7('.down103')">
 			   	  <vue-fontawesome icon="download" class="d_icon_103" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_104" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-               <div class="Download_button7 down104" @click="Download7('.down104', 'Red Dead Redemption - Deadman`s Gun', '.d_icon_104')" @mouseout="down_hide7('.down104')">
+               <div class="Download_button7 down104" @click="Download7('.down104', 'Red Dead Redemption - Deadman`s Gun')" @mouseout="down_hide7('.down104')">
 			   	  <vue-fontawesome icon="download" class="d_icon_104" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_105" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button7 down105" @click="Download7('.down105', 'Red Dead Redemption - Exodus in America', '.d_icon_105')" @mouseout="down_hide7('.down105')">
+			   <div class="Download_button7 down105" @click="Download7('.down105', 'Red Dead Redemption - Exodus in America')" @mouseout="down_hide7('.down105')">
 			   	  <vue-fontawesome icon="download" class="d_icon_105" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -873,48 +873,17 @@
       	}
       },
               /* Download file function() :) */
-      Download7(d_button, d_name, d_icon) {
+      Download7(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim7');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move7');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim7');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1093,7 +1062,7 @@
             REPL_ELEM_6.classList.remove('Rep_9');
             DOWN_ELEM_6.classList.remove('d_first_move7');
             REPL_ELEM_6.classList.remove('Rep_10');
-            DOWN_ELEM_6.classList.remoev('d_first_anim7');
+            DOWN_ELEM_6.classList.remove('d_first_anim7');
       	 }, 1100);
 
           setTimeout(() => {

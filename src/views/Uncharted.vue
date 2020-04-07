@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_31" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down31" @click="Download3('.down31', 'Uncharted 4 - A Normal Life', '.d_icon_31')" @mouseover="D3('.down31')" @mouseout="down_hide3('.down31')">
+			   <div class="Download_button3 down31" @click="Download3('.down31', 'Uncharted 4 - A Normal Life')" @mouseover="D3('.down31')" @mouseout="down_hide3('.down31')">
 			   	  <vue-fontawesome icon="download" class="d_icon_31" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_32" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down32" @click="Download3('.down32', 'Uncharted 4 - Once a Thief......', '.d_icon_32')" @mouseover="D3('.down32')" @mouseout="down_hide3('.down32')">
+			   <div class="Download_button3 down32" @click="Download3('.down32', 'Uncharted 4 - Once a Thief......')" @mouseover="D3('.down32')" @mouseout="down_hide3('.down32')">
 			   	  <vue-fontawesome icon="download" class="d_icon_32" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_33" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down33" @click="Download3('.down33', 'Uncharted 4 - The Brothers Drake', '.d_icon_33')" @mouseover="D3('.down33')" @mouseout="down_hide3('.down33')">
+			   <div class="Download_button3 down33" @click="Download3('.down33', 'Uncharted 4 - The Brothers Drake')" @mouseover="D3('.down33')" @mouseout="down_hide3('.down33')">
 			   	  <vue-fontawesome icon="download" class="d_icon_33" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_34" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down34" @click="Download3('.down34', 'Uncharted 4 - The Grave of Hanry Avery', '.d_icon_34')" @mouseover="D3('.down34')" @mouseout="down_hide3('.down34')">
+			   <div class="Download_button3 down34" @click="Download3('.down34', 'Uncharted 4 - The Grave of Hanry Avery')" @mouseover="D3('.down34')" @mouseout="down_hide3('.down34')">
 			   	  <vue-fontawesome icon="download" class="d_icon_34" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_35" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down35" @click="Download3('.down35', 'Uncharted 4 - The Twelve Towers', '.d_icon_35')" @mouseover="D3('.down35')" @mouseout="down_hide3('.down35')">
+			   <div class="Download_button3 down35" @click="Download3('.down35', 'Uncharted 4 - The Twelve Towers')" @mouseover="D3('.down35')" @mouseout="down_hide3('.down35')">
 			   	  <vue-fontawesome icon="download" class="d_icon_35" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_36" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down36" @click="Download3('.down36', 'Uncharted 4 - Race of Libertalia', '.d_icon_36')" @mouseover="D3('.down36')" @mouseout="down_hide3('.down36')">
+			   <div class="Download_button3 down36" @click="Download3('.down36', 'Uncharted 4 - Race of Libertalia')" @mouseover="D3('.down36')" @mouseout="down_hide3('.down36')">
 			   	  <vue-fontawesome icon="download" class="d_icon_36" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome class="r_icon_37" icon="retweet" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down37" @click="Download3('.down37', 'Uncharted 4 - New Devon', '.d_icon_37')" @mouseover="D3('.down37')" @mouseout="down_hide3('.down37')">
+			   <div class="Download_button3 down37" @click="Download3('.down37', 'Uncharted 4 - New Devon')" @mouseover="D3('.down37')" @mouseout="down_hide3('.down37')">
 			   	  <vue-fontawesome icon="download" class="d_icon_37" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -370,7 +370,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_38" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down38" @click="Download3('.down38', 'Uncharted 4 - At Sea', '.d_icon_38')" @mouseover="D3('.down38')" @mouseout="down_hide3('.down38')">
+			   <div class="Download_button3 down38" @click="Download3('.down38', 'Uncharted 4 - At Sea')" @mouseover="D3('.down38')" @mouseout="down_hide3('.down38')">
 			   	  <vue-fontawesome icon="download" class="d_icon_38" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_39" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down39" @click="Download3('.down39', 'Uncharted 4 - A theif`s end', '.d_icon_39')" @mouseover="D3('.down39')" @mouseout="down_hide3('.down39')">
+			   <div class="Download_button3 down39" @click="Download3('.down39', 'Uncharted 4 - A theif`s end')" @mouseover="D3('.down39')" @mouseout="down_hide3('.down39')">
 			   	  <vue-fontawesome icon="download" class="d_icon_39" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -428,7 +428,7 @@
 		     <div class="sound_block3" @mouseover="show_repeat3('.repl40', '.down40')">
 			   <p class="name3">#10 Marooned</p>
 
-			   <div class="audio_pole_m3 audio_p40_m3" @click="Perek3($event, '.aud40', '.audio_p40_m3')" @mouseover="Show_time3('.Aud_t40')" @mousemove="Run_block3($event, '.audio_p40_m3', '.audud40', '.Aud_t40')" @mouseout="Time_out3('.Aud_t40')">
+			   <div class="audio_pole_m3 audio_p40_m3" @click="Perek3($event, '.aud40', '.audio_p40_m3')" @mouseover="Show_time3('.Aud_t40')" @mousemove="Run_block3($event, '.audio_p40_m3', '.aud40', '.Aud_t40')" @mouseout="Time_out3('.Aud_t40')">
 				   <div class="aud_p3"></div>
 			   </div>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_40" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down40" @click="Download3('.down40', 'Uncharted 4 - Marooned', '.d_icon_40')" @mouseover="D3('.down40')" @mouseout="down_hide3('.down40')">
+			   <div class="Download_button3 down40" @click="Download3('.down40', 'Uncharted 4 - Marooned')" @mouseover="D3('.down40')" @mouseout="down_hide3('.down40')">
 			   	  <vue-fontawesome icon="download" class="d_icon_40" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_41" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down41" @click="Download3('.down41', 'Uncharted 4 - Meet me in paradise', '.d_icon_41')" @mouseover="D3('.down41')" @mouseout="down_hide3('.down41')">
+			   <div class="Download_button3 down41" @click="Download3('.down41', 'Uncharted 4 - Meet me in paradise')" @mouseover="D3('.down41')" @mouseout="down_hide3('.down41')">
 			   	  <vue-fontawesome icon="download" class="d_icon_41" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_42" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down42" @click="Download3('.down42', 'Uncharted 4 - Hidden in Plain Sight', '.d_icon_42')" @mouseover="D3('.down42')" @mouseout="down_hide3('.down42')">
+			   <div class="Download_button3 down42" @click="Download3('.down42', 'Uncharted 4 - Hidden in Plain Sight')" @mouseover="D3('.down42')" @mouseout="down_hide3('.down42')">
 			   	  <vue-fontawesome icon="download" class="d_icon_42" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_43" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down43" @click="Download3('.down43', 'Uncharted 4 - No escape', '.d_icon_43')" @mouseover="D3('.down43')" @mouseout="down_hide3('.down43')">
+			   <div class="Download_button3 down43" @click="Download3('.down43', 'Uncharted 4 - No escape')" @mouseover="D3('.down43')" @mouseout="down_hide3('.down43')">
 			   	  <vue-fontawesome icon="download" class="d_icon_43" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_44" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down44" @click="Download3('.down44', 'Uncharted 4 - One Last Time', '.d_icon_44')" @mouseover="D3('.down44')" @mouseout="down_hide3('.down44')">
+			   <div class="Download_button3 down44" @click="Download3('.down44', 'Uncharted 4 - One Last Time')" @mouseover="D3('.down44')" @mouseout="down_hide3('.down44')">
 			   	  <vue-fontawesome icon="download" class="d_icon_44" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -691,7 +691,7 @@
 			   	      <div class="Speed_x_1 b3 x_third_45" @click="Third_speed_3('.x_third_45', '.aud45', '.choice_speed_45', '.repl45', '.down45')"><p>x1</p></div>
 			   	      <div class="Speed_x_1_25 b3 x_fourth_45" @click="Fourth_speed_3('.x_fourth_45', '.aud45', '.choice_speed_45', '.repl45', '.down45')"><p>x1.25</p></div>
 			   	      <div class="Speed_x_15 b3 x_fifth_45" @click="Fifth_speed_3('.x_fifth_45', '.aud45', '.choice_speed_45', '.repl45', '.down45')"><p>x1.5</p></div>
-			   	      <div class="Speed_x_2 b3 x_six_45" @click="Six_speed_3('.x_first_45', '.aud45', '.choice_speed_45', '.repl45', '.down45')"><p>x2</p></div>
+			   	      <div class="Speed_x_2 b3 x_six_45" @click="Six_speed_3('.x_six_45', '.aud45', '.choice_speed_45', '.repl45', '.down45')"><p>x2</p></div>
 			   	   </div>
 			   </div>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_45" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button3 down45" @click="Download3('.down45', 'Uncharted 4 - Brother`s Keeper', '.d_icon_45')" @mouseover="D3('.down45')" @mouseout="down_hide3('.down45')">
+			   <div class="Download_button3 down45" @click="Download3('.down45', 'Uncharted 4 - Brother`s Keeper')" @mouseover="D3('.down45')" @mouseout="down_hide3('.down45')">
 			   	  <vue-fontawesome icon="download" class="d_icon_45" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -842,9 +842,8 @@
       	    Lvl1_3.children[0].style.background = "rgba(51, 204, 0, .8)";
 
             opov_3_block.classList.add('show_n_block_anim');
-            
+
             opov_3_block.children[0].children[0].textContent = `Громкость ${opov_3_name} - 100%`;
-            opov_3_block_children_2.src = '../assets/img2/Uncharted4_button.png';
 
             REPL_ELEM_2.classList.add('sh8');
 
@@ -872,45 +871,17 @@
       },
 
                /* Download file function() :) */
-      Download3(d_button3, d_name3, d_icon3) {
+      Download3(d_button3, d_name3) {
       	if(confirm('Вы правда хотите скачать этот файл?')) {
       	 let down_button3 = document.querySelector(d_button3);
       	 let down_button_audio_address3 = down_button3.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D3 = document.querySelector(d_icon3);
          let link3 = document.createElement('a');
-         let opov_3_block = document.querySelector('.opoveshenie_block');
 
          link3.setAttribute('href', `${down_button_audio_address3}`);
          link3.setAttribute('download', `${d_name3}.mp3`);
          link3.click();
+
          return true;
-
-         ICON_D3.style.color = 'gold';
-         down_button3.classList.add('.d_first_anim3');
-
-         setTimeout(() => {
-         	down_button3.classList.add('.d_first_move3');
-            ICON_D3.style.color = 'white';
-            down_button3.classList.remove('.d_first_anim3');
-         }, 1100);
-
-         opov_3_block.children[0].children[0].textContent = `${d_name3} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_3_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_3_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_3_block.classList.add('hide_block');  
-            opov_3_block.classList.remove('show_n_block_anim');
-            opov_3_block.classList.remove('show_n_block'); 
-            opov_3_block.classList.remove('fokus');
-            opov_3_block.classList.remove('hide_block');
-         }, 4910);
         } 
       }, 
 
@@ -1173,19 +1144,19 @@
           opov_3_block.children[0].children[0].textContent = `${opov_3_3_name} - играет, ${opov_3_name} - на паузе`;
 
           setTimeout(() => {
-            opov_1_block.classList.add('show_n_block');
+            opov_3_block.classList.add('show_n_block');
           }, 710); 
 
           setTimeout(() => {
-            opov_1_block.classList.add('fokus');
+            opov_3_block.classList.add('fokus');
           }, 3710);
 
           setTimeout(() => {
-            opov_1_block.classList.add('hide_block');  
-            opov_1_block.classList.remove('show_n_block_anim');
-            opov_1_block.classList.remove('show_n_block'); 
-            opov_1_block.classList.remove('fokus');
-            opov_1_block.classList.remove('hide_block');
+            opov_3_block.classList.add('hide_block');  
+            opov_3_block.classList.remove('show_n_block_anim');
+            opov_3_block.classList.remove('show_n_block'); 
+            opov_3_block.classList.remove('fokus');
+            opov_3_block.classList.remove('hide_block');
           }, 4910);
       },
 
@@ -1226,24 +1197,24 @@
             DOWN_two.classList.remove('d_first_anim3');
       	 }, 1100);
 
-         opov_1_block.classList.add('show_n_block_anim');
+         opov_3_block.classList.add('show_n_block_anim');
             
-          opov_1_block.children[0].children[0].textContent = `${opov_3_3_name} - играет, ${opov_3_name} - на паузе`;
+          opov_3_block.children[0].children[0].textContent = `${opov_3_3_name} - играет, ${opov_3_name} - на паузе`;
 
           setTimeout(() => {
-            opov_1_block.classList.add('show_n_block');
+            opov_3_block.classList.add('show_n_block');
           }, 710); 
 
           setTimeout(() => {
-            opov_1_block.classList.add('fokus');
+            opov_3_block.classList.add('fokus');
           }, 3710);
 
           setTimeout(() => {
-            opov_1_block.classList.add('hide_block');  
-            opov_1_block.classList.remove('show_n_block_anim');
-            opov_1_block.classList.remove('show_n_block'); 
-            opov_1_block.classList.remove('fokus');
-            opov_1_block.classList.remove('hide_block');
+            opov_3_block.classList.add('hide_block');  
+            opov_3_block.classList.remove('show_n_block_anim');
+            opov_3_block.classList.remove('show_n_block'); 
+            opov_3_block.classList.remove('fokus');
+            opov_3_block.classList.remove('hide_block');
           }, 4910);
       },
 
@@ -1572,9 +1543,9 @@
 
       	  fifth_a.playbackRate = 1.5;
 
-      	  opov_1_block.classList.add('show_n_block_anim');
+      	  opov_3_block.classList.add('show_n_block_anim');
             
-          opov_1_block.children[0].children[0].textContent = `Скорость воспроизведения ${opov_3_name} - X1.5`;
+          opov_3_block.children[0].children[0].textContent = `Скорость воспроизведения ${opov_3_name} - X1.5`;
 
            REPL_ELEM_11.classList.add('sh8');
            DOWN_ELEM_eleven.classList.add('d_first_anim3');

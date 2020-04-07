@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_46" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down46" @click="Download4('.down46', 'Detroit - Connor Theme', '.d_icon_46')" @mouseout="down_hide4('.down46')">
+			   <div class="Download_button4 down46" @click="Download4('.down46', 'Detroit - Connor Theme')" @mouseout="down_hide4('.down46')">
 			   	  <vue-fontawesome icon="download" class="d_icon_46" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -89,7 +89,7 @@
 			   </div>
                
                <!-- Download button -->
-			   <div class="Download_button4 down47" @click="Download4('.down47', 'Detroit - Hostage', '.d_icon_47')" @mouseout="down_hide4('.down47')">
+			   <div class="Download_button4 down47" @click="Download4('.down47', 'Detroit - Hostage')" @mouseout="down_hide4('.down47')">
 			   	  <vue-fontawesome icon="download" class="d_icon_47" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -136,7 +136,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_48" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-               <div class="Download_button4 down48" @click="Download4('.down48', 'Detroit - Connor and Hank', '.d_icon_48')" @mouseout="down_hide4('.down48')">
+               <div class="Download_button4 down48" @click="Download4('.down48', 'Detroit - Connor and Hank')" @mouseout="down_hide4('.down48')">
 			   	  <vue-fontawesome icon="download" class="d_icon_48" size="3" color="white"></vue-fontawesome>
 			   </div>
                 
@@ -183,7 +183,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_49" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-               <div class="Download_button4 down49" @click="Download4('.down49', 'Detroit - I trust you', '.d_icon_49')" @mouseout="down_hide4('.down49')">
+               <div class="Download_button4 down49" @click="Download4('.down49', 'Detroit - I trust you')" @mouseout="down_hide4('.down49')">
 			   	  <vue-fontawesome icon="download" class="d_icon_49" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -230,7 +230,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_50" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down50" @click="Download4('.down50', 'Detroit - Deviant', '.d_icon_50')" @mouseout="down_hide4('.down50')">
+			   <div class="Download_button4 down50" @click="Download4('.down50', 'Detroit - Deviant')" @mouseout="down_hide4('.down50')">
 			   	  <vue-fontawesome icon="download" class="d_icon_50" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -324,7 +324,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_52" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down52" @click="Download4('.down52', 'Detroit - Confrontation', '.d_icon_52')" @mouseout="down_hide4('.down52')">
+			   <div class="Download_button4 down52" @click="Download4('.down52', 'Detroit - Confrontation')" @mouseout="down_hide4('.down52')">
 			   	  <vue-fontawesome icon="download" class="d_icon_52" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -371,7 +371,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_53" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down53" @click="Download4('.down53', 'Detroit - Run with me', '.d_icon_53')" @mouseout="down_hide4('.down53')">
+			   <div class="Download_button4 down53" @click="Download4('.down53', 'Detroit - Run with me')" @mouseout="down_hide4('.down53')">
 			   	  <vue-fontawesome icon="download" class="d_icon_53" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -418,7 +418,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_54" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down54" @click="Download4('.down54', 'Detroit - What is mother', '.d_icon_54')" @mouseout="down_hide4('.down54')">
+			   <div class="Download_button4 down54" @click="Download4('.down54', 'Detroit - What is mother')" @mouseout="down_hide4('.down54')">
 			   	  <vue-fontawesome icon="download" class="d_icon_54" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -465,7 +465,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_55" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down55" @click="Download4('.down55', 'Detroit - Lost', '.d_icon_55')" @mouseout="down_hide4('.down55')">
+			   <div class="Download_button4 down55" @click="Download4('.down55', 'Detroit - Lost')" @mouseout="down_hide4('.down55')">
 			   	  <vue-fontawesome icon="download" class="d_icon_55" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -512,7 +512,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_56" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down56" @click="Download4('.down56', 'Detroit - Markus main theme', '.d_icon_56')" @mouseout="down_hide4('.down56')">
+			   <div class="Download_button4 down56" @click="Download4('.down56', 'Detroit - Markus main theme')" @mouseout="down_hide4('.down56')">
 			   	  <vue-fontawesome icon="download" class="d_icon_56" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -559,7 +559,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_57" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down57" @click="Download4('.down57', 'Detroit - Cyberlife', '.d_icon_57')" @mouseout="down_hide4('.down57')">
+			   <div class="Download_button4 down57" @click="Download4('.down57', 'Detroit - Cyberlife')" @mouseout="down_hide4('.down57')">
 			   	  <vue-fontawesome icon="download" class="d_icon_57" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -606,7 +606,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_58" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down58" @click="Download4('.down58', 'Detroit - Find Jeriko', '.d_icon_58')" @mouseout="down_hide4('.down58')">
+			   <div class="Download_button4 down58" @click="Download4('.down58', 'Detroit - Find Jeriko')" @mouseout="down_hide4('.down58')">
 			   	  <vue-fontawesome icon="download" class="d_icon_58" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -653,7 +653,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_59" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down59" @click="Download4('.down59', 'Detroit - It`s Up To You To Decide', '.d_icon_59')" @mouseout="down_hide4('.down59')">
+			   <div class="Download_button4 down59" @click="Download4('.down59', 'Detroit - It`s Up To You To Decide')" @mouseout="down_hide4('.down59')">
 			   	  <vue-fontawesome icon="download" class="d_icon_59" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -700,7 +700,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_60" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button4 down60" @click="Download4('.down60', 'Detroit - Can We Still Trust Our machin', '.d_icon_60')" @mouseout="down_hide4('.down60')">
+			   <div class="Download_button4 down60" @click="Download4('.down60', 'Detroit - Can We Still Trust Our machin')" @mouseout="down_hide4('.down60')">
 			   	  <vue-fontawesome icon="download" class="d_icon_60" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -874,48 +874,17 @@
       	}
       },
               /* Download file function() :) */
-      Download4(d_button, d_name, d_icon) {
+      Download4(d_button, d_name) {
       	if(confirm('Вы действительно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim4');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move4');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim4');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 

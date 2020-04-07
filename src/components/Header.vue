@@ -7,7 +7,7 @@
 				<span></span>
 			</div>
 			<div class="second_part">
-            
+
 			</div>
 		</div>
 	</header>

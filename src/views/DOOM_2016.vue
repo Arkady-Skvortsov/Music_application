@@ -18,7 +18,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v136', '.aud136', '.repl136', '.down136')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud136', '.aud150', '.repl136', 'r_icon_136', '.down136')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud136', '.aud150', '.repl136', '.r_icon_136', '.down136')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl136" @click="Play10('.pl136', '.repl136', '.down136')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud136" @timeupdate="Update10('.aud136', '.st136', '.audio_p136_m10')" src="../sound/DOOM_2016/doom_01. I. Dogma.mp3"></audio></button> 
 			   <button class="next10" @click="Next10('.aud136', '.aud137', '.repl136', '.r_icon_136', '.down136')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_136" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down136" @click="Download10('.down136', 'DOOM 2016 - Dogma', '.d_icon_136')" @mouseout="down_hide10('.down136')">
+			   <div class="Download_button10 down136" @click="Download10('.down136', 'DOOM 2016 - Dogma')" @mouseout="down_hide10('.down136')">
 			   	  <vue-fontawesome icon="download" class="d_icon_136" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -65,7 +65,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v137', '.aud137', '.repl137', '.down137')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud137', '.aud136', '.repl137', 'r_icon_137', '.down137')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud137', '.aud136', '.repl137', '.r_icon_137', '.down137')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl137" @click="Play10('.pl137', '.repl137', '.down137')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud137" @timeupdate="Update10('.aud137', '.st137', '.audio_p137_m10')" src="../sound/DOOM_2016/doom_06. Hellwalker.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud137', '.aud138', '.repl137', '.r_icon_137', '.down137')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_137" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down137" @click="Download10('.down137', 'DOOM 2016 - Hellwalker', '.d_icon_137')" @mouseout="down_hide10('.down137')">
+			   <div class="Download_button10 down137" @click="Download10('.down137', 'DOOM 2016 - Hellwalker')" @mouseout="down_hide10('.down137')">
 			   	  <vue-fontawesome icon="download" class="d_icon_137" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -112,7 +112,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v138', '.aud138', '.repl138', '.down138')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud138', '.aud137', '.repl138', 'r_icon_138', '.down138')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud138', '.aud137', '.repl138', '.r_icon_138', '.down138')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl138" @click="Play10('.pl138', '.repl138', '.down138')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud138" @timeupdate="Update10('.aud138', '.st138', '.audio_p138_m10')" src="../sound/DOOM_2016/doom_08. Flesh & Metal.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud138', '.aud139', '.repl138', '.r_icon_138', '.down138')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_138" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down138" @click="Download10('.down138', 'DOOM 2016 - Flesh & Metal', '.d_icon_138')" @mouseout="down_hide10('.down138')">
+			   <div class="Download_button10 down138" @click="Download10('.down138', 'DOOM 2016 - Flesh & Metal')" @mouseout="down_hide10('.down138')">
 			   	  <vue-fontawesome icon="download" class="d_icon_138" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -159,7 +159,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v139', '.aud139', '.repl139', '.down139')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud139', '.aud138', '.repl139', 'r_icon_139', '.down139')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud139', '.aud138', '.repl139', '.r_icon_139', '.down139')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl139" @click="Play10('.pl139', '.repl139', '.down139')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud139" @timeupdate="Update10('.aud139', '.st139', '.audio_p139_m10')" src="../sound/DOOM_2016/doom_14. Harbinger.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud139', '.aud140', '.repl139', '.r_icon_139', '.down139')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_139" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down139" @click="Download10('.down139', 'DOOM 2016 - Harbinger', '.d_icon_139')" @mouseout="down_hide10('.down139')">
+			   <div class="Download_button10 down139" @click="Download10('.down139', 'DOOM 2016 - Harbinger')" @mouseout="down_hide10('.down139')">
 			   	  <vue-fontawesome icon="download" class="d_icon_139" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -206,7 +206,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v140', '.aud140', '.repl140', '.down140')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud140', '.aud139', '.repl140', 'r_icon_140', '.down140')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud140', '.aud139', '.repl140', '.r_icon_140', '.down140')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl140" @click="Play10('.pl140', '.repl140', '.down140')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud140" @timeupdate="Update10('.aud140', '.st140', '.audio_p140_m10')" src="../sound/DOOM_2016/doom_19. Cyberdemon.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud140', '.aud141', '.repl140', '.r_icon_140', '.down140')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_140" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down140" @click="Download10('.down140', 'DOOM 2016 - CyberDemon', '.d_icon_140')" @mouseout="down_hide10('.down140')">
+			   <div class="Download_button10 down140" @click="Download10('.down140', 'DOOM 2016 - CyberDemon')" @mouseout="down_hide10('.down140')">
 			   	  <vue-fontawesome icon="download" class="d_icon_140" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -253,7 +253,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v141', '.aud141', '.repl141', '.down141')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud141', '.aud140', '.repl141', 'r_icon_141', '.down141')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud141', '.aud140', '.repl141', '.r_icon_141', '.down141')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl141" @click="Play10('.pl141', '.repl141', '.down141')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud141" @timeupdate="Update10('.aud141', '.st141', '.audio_p141_m10')" src="../sound/DOOM_2016/doom_13. Argent Energy.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud141', '.aud142', '.repl141', '.r_icon_141', '.down141')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_141" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down141" @click="Download10('.down141', 'DOOM 2016 - Argent Energy', '.d_icon_141')" @mouseout="down_hide10('.down141')">
+			   <div class="Download_button10 down141" @click="Download10('.down141', 'DOOM 2016 - Argent Energy')" @mouseout="down_hide10('.down141')">
 			   	  <vue-fontawesome icon="download" class="d_icon_141" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -300,7 +300,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v142', '.aud142', '.repl142', '.down142')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud142', '.aud141', '.repl142', 'r_icon_142', '.down142')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud142', '.aud141', '.repl142', '.r_icon_142', '.down142')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl142" @click="Play10('.pl142', '.repl142', '.down142')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud142" @timeupdate="Update10('.aud142', '.st142', '.audio_p142_m10')" src="../sound/DOOM_2016/doom_22. Damnation.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud142', '.aud143', '.repl142', '.r_icon_142', '.down142')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_142" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down142" @click="Download10('.down142', 'DOOM 2016 - Damnation', '.d_icon_142')" @mouseout="down_hide10('.down142')">
+			   <div class="Download_button10 down142" @click="Download10('.down142', 'DOOM 2016 - Damnation')" @mouseout="down_hide10('.down142')">
 			   	  <vue-fontawesome icon="download" class="d_icon_142" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -347,7 +347,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v143', '.aud143', '.repl143', '.down143')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud143', '.aud142', '.repl143', 'r_icon_143', '.down143')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud143', '.aud142', '.repl143', '.r_icon_143', '.down143')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl143" @click="Play10('.pl143', '.repl143', '.down143')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud143" @timeupdate="Update10('.aud143', '.st143', '.audio_p143_m10')" src="../sound/DOOM_2016/doom_11. Bfg Division.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud143', '.aud144', '.repl143', '.r_icon_143', '.down143')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -394,7 +394,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v144', '.aud144', '.repl144', '.down144')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud144', '.aud143', '.repl144', 'r_icon_144', '.down144')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud144', '.aud143', '.repl144', '.r_icon_144', '.down144')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl144" @click="Play10('.pl144', '.repl144', '.down144')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud144" @timeupdate="Update10('.aud144', '.st144', '.audio_p144_m10')" src="../sound/DOOM_2016/doom_25. Death & Exhale.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud144', '.aud145', '.repl144', '.r_icon_144', '.down144')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_144" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down144" @click="Download10('.down144', 'DOOM 2016 - Death & Exhale', '.d_icon_144')" @mouseout="down_hide10('.down144')">
+			   <div class="Download_button10 down144" @click="Download10('.down144', 'DOOM 2016 - Death & Exhale')" @mouseout="down_hide10('.down144')">
 			   	  <vue-fontawesome icon="download" class="d_icon_144" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -441,7 +441,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v145', '.aud145', '.repl145', '.down145')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud145', '.aud144', '.repl145', 'r_icon_145', '.down145')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud145', '.aud144', '.repl145', '.r_icon_145', '.down145')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl145" @click="Play10('.pl145', '.repl145', '.down145')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud145" @timeupdate="Update10('.aud145', '.st145', '.audio_p145_m10')" src="../sound/DOOM_2016/doom_24. Uac Report File; Shto36u3.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud145', '.aud146', '.repl145', '.r_icon_145', '.down145')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_145" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button10 down145" @click="Download10('.down145', 'DOOM 2016 - UAC Report File;', '.d_icon_145')" @mouseout="down_hide10('.down145')">
+			    <div class="Download_button10 down145" @click="Download10('.down145', 'DOOM 2016 - UAC Report File;')" @mouseout="down_hide10('.down145')">
 			   	  <vue-fontawesome icon="download" class="d_icon_145" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -488,7 +488,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v146', '.aud146', '.repl146', '.down146')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud146', '.aud145', '.repl146', 'r_icon_146', '.down146')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud146', '.aud145', '.repl146', '.r_icon_146', '.down146')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl146" @click="Play10('.pl146', '.repl146', '.down146')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud146" @timeupdate="Update10('.aud146', '.st146', '.audio_p146_m10')" src="../sound/DOOM_2016/doom_27. Lazarus Waves.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud146', '.aud147', '.repl146', '.r_icon_146', '.down146')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_146" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down146" @click="Download10('.down146', 'DOOM 2016 - Lazarus Waves', '.d_icon_146')" @mouseout="down_hide10('.down146')">
+			   <div class="Download_button10 down146" @click="Download10('.down146', 'DOOM 2016 - Lazarus Waves')" @mouseout="down_hide10('.down146')">
 			   	  <vue-fontawesome icon="download" class="d_icon_146" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -535,7 +535,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v147', '.aud147', '.repl147', '.down147')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud147', '.aud146', '.repl147', 'r_icon_147', '.down147')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud147', '.aud146', '.repl147', '.r_icon_147', '.down147')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl147" @click="Play10('.pl147', '.repl147', '.down147')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud147" @timeupdate="Update10('.aud147', '.st147', '.audio_p147_m10')" src="../sound/DOOM_2016/doom_04. Rust, Dust & Guts.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud147', '.aud148', '.repl147', '.r_icon_147', '.down147')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_147" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down147" @click="Download10('.down147', 'DOOM 2016 - Rust, Duts & Guts', '.d_icon_147')" @mouseout="down_hide10('.down147')">
+			   <div class="Download_button10 down147" @click="Download10('.down147', 'DOOM 2016 - Rust, Duts & Guts')" @mouseout="down_hide10('.down147')">
 			   	  <vue-fontawesome icon="download" class="d_icon_147" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -582,7 +582,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v148', '.aud148', '.repl148', '.down148')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud148', '.aud147', '.repl148', 'r_icon_148', '.down148')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud148', '.aud147', '.repl148', '.r_icon_148', '.down148')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl148" @click="Play10('.pl148', '.repl148', '.down148')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud148" @timeupdate="Update10('.aud148', '.st148', '.audio_p148_m10')" src="../sound/DOOM_2016/doom_30. Mastermind.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud148', '.aud149', '.repl148', '.r_icon_148', '.down148')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_148" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down148" @click="Download10('.down148', 'DOOM 2016 - MasterMind', '.d_icon_148')" @mouseout="down_hide10('.down148')">
+			   <div class="Download_button10 down148" @click="Download10('.down148', 'DOOM 2016 - MasterMind')" @mouseout="down_hide10('.down148')">
 			   	  <vue-fontawesome icon="download" class="d_icon_148" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -629,7 +629,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v149', '.aud149', '.repl149', '.down149')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud149', '.aud148', '.repl149', 'r_icon_149', '.down149')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud149', '.aud148', '.repl149', '.r_icon_149', '.down149')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl149" @click="Play10('.pl149', '.repl149', '.down149')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud149" @timeupdate="Update10('.aud149', '.st149', '.audio_p149_m10')" src="../sound/DOOM_2016/doom_17. Transistor Fist.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud149', '.aud150', '.repl149', '.r_icon_149', '.down149')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_149" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down149" @click="Download10('.down149', 'DOOM 2016 - Transistor First', '.d_icon_149')" @mouseout="down_hide10('.down149')">
+			   <div class="Download_button10 down149" @click="Download10('.down149', 'DOOM 2016 - Transistor First')" @mouseout="down_hide10('.down149')">
 			   	  <vue-fontawesome icon="download" class="d_icon_149" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -676,7 +676,7 @@
 			   	  <div class="fif_v_10" @click="C4_10('.l_of_v150', '.aud150', '.repl150', '.down150')"></div>
 			   </div>
 
-			   <button class="prev10" @click="Prev10('.aud150', '.aud149', '.repl150', 'r_icon_150', '.down150')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev10" @click="Prev10('.aud150', '.aud149', '.repl150', '.r_icon_150', '.down150')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play10 pl150" @click="Play10('.pl150', '.repl150', '.down150')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud150" @timeupdate="Update10('.aud150', '.st150', '.audio_p150_m10')" src="../sound/DOOM_2016/doom_10. Ties That Bind.mp3"></audio></button>
 			   <button class="next10" @click="Next10('.aud150', '.aud136', '.repl150', '.r_icon_150', '.down150')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_150" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button10 down150" @click="Download10('.down150', 'DOOM 2016 - Ties That Bind', '.d_icon_150')" @mouseout="down_hide10('.down150')">
+			   <div class="Download_button10 down150" @click="Download10('.down150', 'DOOM 2016 - Ties That Bind')" @mouseout="down_hide10('.down150')">
 			   	  <vue-fontawesome icon="download" class="d_icon_150" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -873,48 +873,17 @@
       	}
       },
               /* Download file function() :) */
-      Download10(d_button, d_name, d_icon) {
+      Download10(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim10');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move10');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim10');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1093,7 +1062,7 @@
             REPL_ELEM_6.classList.remove('Rep_15');
             DOWN_ELEM_6.classList.remove('d_first_move10');
             REPL_ELEM_6.classList.remove('Rep_16');
-            DOWN_ELEM_6.classList.remoev('d_first_anim10');
+            DOWN_ELEM_6.classList.remove('d_first_anim10');
       	 }, 1100);
 
           setTimeout(() => {

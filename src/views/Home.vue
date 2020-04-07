@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_1" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down1" @click="Download('.down1', 'The Last Of Us - Main Theme', '.d_icon_1')" @mouseover="D('.down1')" @mouseout="down_hide('.down1')">
+			   <div class="Download_button down1" @click="Download('.down1', 'The Last Of Us - Main Theme')" @mouseover="D('.down1')" @mouseout="down_hide('.down1')">
 			   	  <vue-fontawesome icon="download" class="d_icon_1" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_2" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down2" @click="Download('.down2', 'The Last Of Us - Home', '.d_icon_2')" @mouseover="D('.down2')" @mouseout="down_hide('.down2')">
+			   <div class="Download_button down2" @click="Download('.down2', 'The Last Of Us - Home')" @mouseover="D('.down2')" @mouseout="down_hide('.down2')">
 			   	  <vue-fontawesome icon="download" class="d_icon_2" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_3" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down3" @click="Download('.down3', 'The Last Of Us - The Choice', '.d_icon_3')" @mouseover="D('.down3')" @mouseout="down_hide('.down3')">
+			    <div class="Download_button down3" @click="Download('.down3', 'The Last Of Us - The Choice')" @mouseover="D('.down3')" @mouseout="down_hide('.down3')">
 			   	  <vue-fontawesome icon="download" class="d_icon_3" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_4" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down4" @click="Download('.down4', 'The Last Of Us - Goodnight', '.d_icon_4')" @mouseover="D('.down4')" @mouseout="down_hide('.down4')">
+			    <div class="Download_button down4" @click="Download('.down4', 'The Last Of Us - Goodnight')" @mouseover="D('.down4')" @mouseout="down_hide('.down4')">
 			   	  <vue-fontawesome icon="download" class="d_icon_4" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_5" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down5" @click="Download('.down5', 'The Last Of Us - You and me', 'd_icon_5')" @mouseover="D('.down5')" @mouseout="down_hide('.down5')">
+			    <div class="Download_button down5" @click="Download('.down5', 'The Last Of Us - You and me')" @mouseover="D('.down5')" @mouseout="down_hide('.down5')">
 			   	  <vue-fontawesome icon="download" class="d_icon_5" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_6" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down6" @click="Download('.down6', 'The Last Of Us - Never Again', '.d_icon_6')" @mouseover="D('.down6')" @mouseout="down_hide('.down6')">
+			    <div class="Download_button down6" @click="Download('.down6', 'The Last Of Us - Never Again')" @mouseover="D('.down6')" @mouseout="down_hide('.down6')">
 			   	  <vue-fontawesome icon="download" class="d_icon_6" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_7" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down7" @click="Download('.down7', 'The Last Of Us - The Quarantine Zone', '.d_icon_7')" @mouseover="D('.down7')" @mouseout="down_hide('.down7')">
+			    <div class="Download_button down7" @click="Download('.down7', 'The Last Of Us - The Quarantine Zone')" @mouseover="D('.down7')" @mouseout="down_hide('.down7')">
 			   	  <vue-fontawesome icon="download" class="d_icon_7" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_9" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down9" @click="Download('.down9', 'The Last Of Us - The Hour', '.d_icon_9')" @mouseover="D('.down9')" @mouseout="down_hide('.down9')">
+			    <div class="Download_button down9" @click="Download('.down9', 'The Last Of Us - The Hour')" @mouseover="D('.down9')" @mouseout="down_hide('.down9')">
 			   	  <vue-fontawesome icon="download" class="d_icon_9" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_10" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button down10" @click="Download('.down10', 'The Last Of Us - A New Dawn', '.d_icon_10')" @mouseover="D('.down10')" @mouseout="down_hide('.down10')">
+			    <div class="Download_button down10" @click="Download('.down10', 'The Last Of Us - A New Dawn')" @mouseover="D('.down10')" @mouseout="down_hide('.down10')">
 			   	  <vue-fontawesome icon="download" class="d_icon_10" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_11" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down11" @click="Download('.down11', 'The Last Of Us - Vanishing Grace', '.d_icon_11')" @mouseover="D('.down11')" @mouseout="down_hide('.downw11')">
+			   <div class="Download_button down11" @click="Download('.down11', 'The Last Of Us - Vanishing Grace')" @mouseover="D('.down11')" @mouseout="down_hide('.downw11')">
 			   	  <vue-fontawesome icon="download" class="d_icon_11" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_12" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down12" @click="Download('.down12', 'The Last Of Us - The Hunters', '.d_icon_12')" @mouseover="D('.down12')" @mouseout="down_hide('.down12')">
+			   <div class="Download_button down12" @click="Download('.down12', 'The Last Of Us - The Hunters')" @mouseover="D('.down12')" @mouseout="down_hide('.down12')">
 			   	  <vue-fontawesome icon="download" class="d_icon_12" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_13" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down13" @click="Download('.down13', 'The Last Of Us - By any means', '.d_icon_13')" @mouseover="D('.down13')" @mouseout="down_hide('.down13')">
+			   <div class="Download_button down13" @click="Download('.down13', 'The Last Of Us - By any means')" @mouseover="D('.down13')" @mouseout="down_hide('.down13')">
 			   	  <vue-fontawesome icon="download" class="d_icon_13" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_14" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button down14" @click="Download('.down14', 'The Last Of Us - The Outbrake', '.d_icon_14')" @mouseover="D('.down14')" @mouseout="down_hide('.down14')">
+			   <div class="Download_button down14" @click="Download('.down14', 'The Last Of Us - The Outbrake')" @mouseover="D('.down14')" @mouseout="down_hide('.down14')">
 			   	  <vue-fontawesome icon="download" class="d_icon_14" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_15" size="3" color="white"></vue-fontawesome>
 			   </div> <!-- Никогда не работал с vue-fontawesome.. Хз че будет, если щас через классы попробовать, но всетаки стоит попробовать.. Приду и продолжу /\^^/\ - Все классно, но он не меняет сам Attribute(icon)-->
 
-			   <div class="Download_button down15" @click="Download('.down15', 'The Last Of Us - All Gone(No Escape)', '.d_icon_15')" @mouseover="D('.down15')" @mouseout="down_hide('.down15')">
+			   <div class="Download_button down15" @click="Download('.down15', 'The Last Of Us - All Gone(No Escape)')" @mouseover="D('.down15')" @mouseout="down_hide('.down15')">
 			   	  <vue-fontawesome icon="download" class="d_icon_15" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -794,7 +794,6 @@ export default {
       	let Lvl1 = document.querySelector(lvl1);
       	let opov_1_block = document.querySelector('.opoveshenie_block');
       	let opov_1_name = vl2.parentElement.children[0].textContent;
-      	let opov_1_block_children_2 = opov_1_block.children[1].children[0];
       	let REPL_ELEM_2 = document.querySelector(Repl_elem_2);
       	let DOWN_ELEM_2 = document.querySelector(Down_elem_2);
 
@@ -809,7 +808,6 @@ export default {
             opov_1_block.classList.add('show_n_block_anim');
             
             opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 0%`;
-            opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
             REPL_ELEM_2.classList.add('sh4');
             DOWN_ELEM_2.classList.add('d_first_anim');
@@ -847,7 +845,6 @@ export default {
             opov_1_block.classList.add('show_n_block_anim');
             
             opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`;
-            opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
             REPL_ELEM_2.classList.add('sh4');
             DOWN_ELEM_2.classList.add('d_first_anim');
@@ -877,43 +874,17 @@ export default {
       	}
       },
               /* Download file function() :) */
-      Download(d_button, d_name, d_icon) {
+      Download(d_button, d_name) {
       	if(confirm('Вы правда хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_1_block = document.querySelector('.opoveshenie_block');
 
          link.setAttribute('href', `${down_button_audio_address}`);
-         link.setAttribute('download', `${d_name}.mp3`);
-         link.click();
-         return true;
+         link.setAttribute('download', `${d_name}.mp3`);         
+         link.click();    
 
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move');
-            ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim');
-         }, 1100);
-
-         setTimeout(() => {
-            opov_1_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_1_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_1_block.classList.add('hide_block');  
-            opov_1_block.classList.remove('show_n_block_anim');
-            opov_1_block.classList.remove('show_n_block'); 
-            opov_1_block.classList.remove('fokus');
-            opov_1_block.classList.remove('hide_block');
-         }, 4910);
+         return false;    
         } 
       }, 
 
@@ -932,7 +903,6 @@ export default {
           let vol1 = document.querySelector(volm1);
           let opov_1_block = document.querySelector('.opoveshenie_block');
       	  let opov_1_name = vl5.parentElement.children[0].textContent;
-      	  let opov_1_block_children_2 = opov_1_block.children[1].children[0];
       	  let REPL_ELEM_3 = document.querySelector(Repl_elem_3);
       	  let DOWN_ELEM_3 = document.querySelector(Down_elem_3);
 
@@ -946,7 +916,6 @@ export default {
       	  opov_1_block.classList.add('show_n_block_anim');
             
           opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 25%`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
           REPL_ELEM_3.classList.add('sh4');
           DOWN_ELEM_3.classList.add('d_first_anim');
@@ -980,7 +949,6 @@ export default {
           let vol2 = document.querySelector(volm2);
           let opov_1_block = document.querySelector('.opoveshenie_block');
       	  let opov_1_name = vl6.parentElement.children[0].textContent;
-      	  let opov_1_block_children_2 = opov_1_block.children[1].children[0];
       	  let REPL_ELEM_4 = document.querySelector(Repl_elem_4);
       	  let DOWN_ELEM_4 = document.querySelector(Down_elem_4);
 
@@ -994,7 +962,6 @@ export default {
           opov_1_block.classList.add('show_n_block_anim');
             
           opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 55%`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
           REPL_ELEM_4.classList.add('sh4');
           DOWN_ELEM_4.classList.add('d_fist_anim');
@@ -1028,7 +995,6 @@ export default {
           let vol3 = document.querySelector(volm3);
           let opov_1_block = document.querySelector('.opoveshenie_block');
       	  let opov_1_name = vl7.parentElement.children[0].textContent;
-      	  let opov_1_block_children_2 = opov_1_block.children[1].children[0];
       	  let REPL_ELEM_5 = document.querySelector(Repl_elem_5);
       	  let DOWN_ELEM_5 = document.querySelector(Down_elem_5);
           
@@ -1042,7 +1008,6 @@ export default {
       	  opov_1_block.classList.add('show_n_block_anim');
             
           opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 85%`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
            REPL_ELEM_5.classList.add('sh4');
            DOWN_ELEM_5.classList.add('d_first_anim');
@@ -1077,7 +1042,6 @@ export default {
           let vol4 = document.querySelector(volm4);
            let opov_1_block = document.querySelector('.opoveshenie_block');
       	  let opov_1_name = vl8.parentElement.children[0].textContent;
-      	  let opov_1_block_children_2 = opov_1_block.children[1].children[0];
       	  let REPL_ELEM_6 = document.querySelector(Repl_elem_6);
       	  let DOWN_ELEM_6 = document.querySelector(Down_elem_6);
 
@@ -1090,8 +1054,7 @@ export default {
 
       	  opov_1_block.classList.add('show_n_block_anim');
             
-          opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
+          opov_1_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`
 
           REPL_ELEM_6.classList.add('sh4');
           DOWN_ELEM_6.classList.add('d_first_anim');
@@ -1100,7 +1063,7 @@ export default {
             REPL_ELEM_6.classList.remove('sh3');
             DOWN_ELEM_6.classList.remove('d_first_move');
             REPL_ELEM_6.classList.remove('sh4');
-            DOWN_ELEM_6.classList.remoev('d_first_anim');
+            DOWN_ELEM_6.classList.remove('d_first_anim');
       	 }, 1100);
 
           setTimeout(() => {
@@ -1151,7 +1114,6 @@ export default {
          let opov_1_block = document.querySelector('.opoveshenie_block');
          let opov_1_name = aud_1.parentElement.parentElement.children[0].textContent;
          let opov_1_1_name = aud_2.parentElement.parentElement.children[0].textContent;
-         let opov_1_block_children_2 = opov_1_block.children[1].children[0]; 
 
          if(aud_1.played) {
             aud_1.pause();
@@ -1183,7 +1145,6 @@ export default {
           opov_1_block.classList.add('show_n_block_anim');
             
           opov_1_block.children[0].children[0].textContent = `${opov_1_1_name} - играет, ${opov_1_name} - на паузе`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
           setTimeout(() => {
             opov_1_block.classList.add('show_n_block');
@@ -1212,7 +1173,6 @@ export default {
          let opov_1_block = document.querySelector('.opoveshenie_block');
          let opov_1_name = aud_3.parentElement.parentElement.children[0].textContent;  //Fuck..... Asshole code! !!!!!
          let opov_1_1_name = aud_4.parentElement.parentElement.children[0].textContent;
-         let opov_1_block_children_2 = opov_1_block.children[1].children[0];
 
          if(aud_3.played) {
          	aud_3.pause();
@@ -1243,7 +1203,6 @@ export default {
          opov_1_block.classList.add('show_n_block_anim');
             
           opov_1_block.children[0].children[0].textContent = `${opov_1_1_name} - играет, ${opov_1_name} - на паузе`;
-          opov_1_block_children_2.src = '../assets/img/TLOU2_button.jpg';
 
           setTimeout(() => {
             opov_1_block.classList.add('show_n_block');
@@ -1327,7 +1286,7 @@ export default {
             d2.classList.remove('d_first_move');
             d2.classList.remove('d_first_anim');
          }, 1100);
-      },
+      }, 
 
       Replay(AUD, Icon1) {
       	  let aud = document.querySelector(AUD);
@@ -1659,7 +1618,7 @@ export default {
             opov_1_block.classList.remove('fokus');
             opov_1_block.classList.remove('hide_block');
           }, 4910);
-      }
+      } 
   }
 };
 </script>
@@ -2091,7 +2050,7 @@ export default {
 
     .audio_collection_block .sound_block .Speed_block .contain .b p:hover {
         color: black;
-    }
+    } 
 
     /* Phone(Vertical) */
     @media only screen and (min-device-width: 260px) and (max-device-width: 480px) {

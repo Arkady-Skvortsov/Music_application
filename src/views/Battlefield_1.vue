@@ -18,7 +18,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v121', '.aud121', '.repl121', '.down121')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud121', '.aud135', '.repl121', 'r_icon_121', '.down121')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud121', '.aud135', '.repl121', '.r_icon_121', '.down121')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl121" @click="Play9('.pl121', '.repl121', '.down121')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud121" @timeupdate="Update9('.aud121', '.st121', '.audio_p121_m9')" src="../sound/Battlefield_1/01. Battlefield One.mp3"></audio></button> 
 			   <button class="next9" @click="Next9('.aud121', '.aud122', '.repl121', '.r_icon_121', '.down121')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_121" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down121" @click="Download9('.down121', 'Battlefield 1 - Battlefield One', '.d_icon_121')" @mouseout="down_hide9('.down121')">
+			   <div class="Download_button9 down121" @click="Download9('.down121', 'Battlefield 1 - Battlefield One')" @mouseout="down_hide9('.down121')">
 			   	  <vue-fontawesome icon="download" class="d_icon_120" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -65,7 +65,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v122', '.aud122', '.repl122', '.down122')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud122', '.aud121', '.repl122', 'r_icon_122', '.down122')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud122', '.aud121', '.repl122', '.r_icon_122', '.down122')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl122" @click="Play9('.pl122', '.repl122', '.down122')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud122" @timeupdate="Update9('.aud122', '.st122', '.audio_p122_m9')" src="../sound/Battlefield_1/02. The War to End All Wars.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud122', '.aud123', '.repl122', '.r_icon_122', '.down122')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_122" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down122" @click="Download9('.down122', 'Battlefield 1 - The War to End All Wars', '.d_icon_122')" @mouseout="down_hide9('.down122')">
+			   <div class="Download_button9 down122" @click="Download9('.down122', 'Battlefield 1 - The War to End All Wars')" @mouseout="down_hide9('.down122')">
 			   	  <vue-fontawesome icon="download" class="d_icon_122" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -112,7 +112,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v123', '.aud123', '.repl123', '.down123')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud123', '.aud122', '.repl123', 'r_icon_123', '.down123')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud123', '.aud122', '.repl123', '.r_icon_123', '.down123')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl123" @click="Play9('.pl123', '.repl123', '.down123')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud123" @timeupdate="Update9('.aud123', '.st123', '.audio_p123_m9')" src="../sound/Battlefield_1/03. Mud and Blood.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud123', '.aud124', '.repl123', '.r_icon_123', '.down123')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_123" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down123" @click="Download9('.down123', 'Battlefield 1 - Mud And Blood', '.d_icon_123')" @mouseout="down_hide9('.down123')">
+			   <div class="Download_button9 down123" @click="Download9('.down123', 'Battlefield 1 - Mud And Blood')" @mouseout="down_hide9('.down123')">
 			   	  <vue-fontawesome icon="download" class="d_icon_123" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -159,7 +159,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v124', '.aud124', '.repl124', '.down124')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud124', '.aud123', '.repl124', 'r_icon_124', '.down124')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud124', '.aud123', '.repl124', '.r_icon_124', '.down124')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl124" @click="Play9('.pl124', '.repl124', '.down124')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud124" @timeupdate="Update9('.aud124', '.st124', '.audio_p124_m9')" src="../sound/Battlefield_1/06. Nothing Is Written.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud124', '.aud125', '.repl124', '.r_icon_124', '.down124')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_124" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down124" @click="Download9('.down124', 'Battlefield 1 - Nothing is Written', '.d_icon_124')" @mouseout="down_hide9('.down124')">
+			   <div class="Download_button9 down124" @click="Download9('.down124', 'Battlefield 1 - Nothing is Written')" @mouseout="down_hide9('.down124')">
 			   	  <vue-fontawesome icon="download" class="d_icon_124" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -206,7 +206,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v125', '.aud125', '.repl125', '.down125')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud125', '.aud124', '.repl125', 'r_icon_125', '.down125')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud125', '.aud124', '.repl125', '.r_icon_125', '.down125')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl125" @click="Play9('.pl125', '.repl125', '.down125')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud125" @timeupdate="Update9('.aud125', '.st125', '.audio_p125_m9')" src="../sound/Battlefield_1/07. Avanti Savoia.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud125', '.aud126', '.repl125', '.r_icon_125', '.down125')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_125" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down125" @click="Download9('.down125', 'Battlefield 1 - Avanti Savoia', '.d_icon_125')" @mouseout="down_hide9('.down125')">
+			   <div class="Download_button9 down125" @click="Download9('.down125', 'Battlefield 1 - Avanti Savoia')" @mouseout="down_hide9('.down125')">
 			   	  <vue-fontawesome icon="download" class="d_icon_125" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -253,7 +253,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v126', '.aud126', '.repl126', '.down126')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud126', '.aud125', '.repl126', 'r_icon_126', '.down126')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud126', '.aud125', '.repl126', '.r_icon_126', '.down126')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl126" @click="Play9('.pl126', '.repl126', '.down126')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud126" @timeupdate="Update9('.aud126', '.st126', '.audio_p126_m9')" src="../sound/Battlefield_1/09. Black Bess.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud126', '.aud127', '.repl126', '.r_icon_126', '.down126')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_126" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button9 down126" @click="Download9('.down126', 'Battlefield 1 - Avanti Savoia', '.d_icon_126')" @mouseout="down_hide9('.down126')">
+			    <div class="Download_button9 down126" @click="Download9('.down126', 'Battlefield 1 - Avanti Savoia')" @mouseout="down_hide9('.down126')">
 			   	  <vue-fontawesome icon="download" class="d_icon_126" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -300,7 +300,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v127', '.aud127', '.repl127', '.down127')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud127', '.aud126', '.repl127', 'r_icon_127', '.down127')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud127', '.aud126', '.repl127', '.r_icon_127', '.down127')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl127" @click="Play9('.pl127', '.repl127', '.down127')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud127" @timeupdate="Update9('.aud127', '.st127', '.audio_p127_m9')" src="../sound/Battlefield_1/10. Steel on Steel.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud127', '.aud128', '.repl127', '.r_icon_127', '.down127')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_127" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down127" @click="Download9('.down127', 'Battlefield 1 - Steel on Steel', '.d_icon_127')" @mouseout="down_hide9('.down127')">
+			   <div class="Download_button9 down127" @click="Download9('.down127', 'Battlefield 1 - Steel on Steel')" @mouseout="down_hide9('.down127')">
 			   	  <vue-fontawesome icon="download" class="d_icon_127" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -347,7 +347,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v128', '.aud128', '.repl128', '.down128')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud128', '.aud127', '.repl128', 'r_icon_128', '.down128')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud128', '.aud127', '.repl128', '.r_icon_128', '.down128')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl128" @click="Play9('.pl128', '.repl128', '.down128')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud128" @timeupdate="Update9('.aud128', '.st128', '.audio_p128_m9')" src="../sound/Battlefield_1/11. The Swindle.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud128', '.aud129', '.repl128', '.r_icon_128', '.down128')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -370,7 +370,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_128" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down128" @click="Download9('.down128', 'Battlefield 1 - The Swindle', '.d_icon_128')" @mouseout="down_hide9('.down128')">
+			   <div class="Download_button9 down128" @click="Download9('.down128', 'Battlefield 1 - The Swindle')" @mouseout="down_hide9('.down128')">
 			   	  <vue-fontawesome icon="download" class="d_icon_128" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -394,7 +394,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v129', '.aud129', '.repl129', '.down129')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud129', '.aud128', '.repl129', 'r_icon_129', '.down129')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud129', '.aud128', '.repl129', '.r_icon_129', '.down129')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl129" @click="Play9('.pl129', '.repl129', '.down129')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud129" @timeupdate="Update9('.aud129', '.st129', '.audio_p129_m9')" src="../sound/Battlefield_1/12. Sinai Desert.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud129', '.aud130', '.repl129', '.r_icon_129', '.down129')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_129" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button9 down129" @click="Download9('.down129', 'Battlefield 1 - Sinai Desert', '.d_icon_129')" @mouseout="down_hide9('.down129')">
+			    <div class="Download_button9 down129" @click="Download9('.down129', 'Battlefield 1 - Sinai Desert')" @mouseout="down_hide9('.down129')">
 			   	  <vue-fontawesome icon="download" class="d_icon_129" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -441,7 +441,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v130', '.aud130', '.repl130', '.down130')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud130', '.aud129', '.repl130', 'r_icon_130', '.down130')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud130', '.aud129', '.repl130', '.r_icon_130', '.down130')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl130" @click="Play9('.pl130', '.repl130', '.down130')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class='aud130' @timeupdate="Update9('.aud130', '.st130', '.audio_p130_m9')" src="../sound/Battlefield_1/16. The Flight of the Pigeon.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud130', '.aud131', '.repl130', '.r_icon_130', '.down130')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_130" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button9 down130" @click="Download9('.down130', 'Battlefield 1 - The Flight on the Pigeon', '.d_icon_130')" @mouseout="down_hide9('.down130')">
+			    <div class="Download_button9 down130" @click="Download9('.down130', 'Battlefield 1 - The Flight on the Pigeon')" @mouseout="down_hide9('.down130')">
 			   	  <vue-fontawesome icon="download" class="d_icon_130" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -488,7 +488,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v131', '.aud131', '.repl131', '.down131')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud131', '.aud130', '.repl131', 'r_icon_131', '.down131')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud131', '.aud130', '.repl131', '.r_icon_131', '.down131')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl131" @click="Play9('.pl131', '.repl131', '.down131')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud131" @timeupdate="Update9('.aud131', '.st131', '.audio_p131_m9')" src="../sound/Battlefield_1/19. Friends in High Places.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud131', '.aud132', '.repl131', '.r_icon_131', '.down131')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_131" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down131" @click="Download9('.down131', 'Battlefield 1 - Friends in High Places', '.d_icon_131')" @mouseout="down_hide9('.down131')">
+			   <div class="Download_button9 down131" @click="Download9('.down131', 'Battlefield 1 - Friends in High Places')" @mouseout="down_hide9('.down131')">
 			   	  <vue-fontawesome icon="download" class="d_icon_131" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -535,7 +535,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v132', '.aud132', '.repl132', '.down132')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud132', '.aud131', '.repl132', 'r_icon_132', '.down132')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud132', '.aud131', '.repl132', '.r_icon_132', '.down132')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl132" @click="Play9('.pl132', '.repl132', '.down132')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud132" @timeupdate="Update9('.aud132', '.st132', '.audio_p132_m9')" src="../sound/Battlefield_1/20. Knights of the Sky.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud132', '.aud133', '.repl132', '.r_icon_132', '.down132')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_132" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down132" @click="Download9('.down132', 'Battlefield 1 - Knights of the Sky', '.d_icon_132')" @mouseout="down_hide9('.down132')">
+			   <div class="Download_button9 down132" @click="Download9('.down132', 'Battlefield 1 - Knights of the Sky')" @mouseout="down_hide9('.down132')">
 			   	  <vue-fontawesome icon="download" class="d_icon_132" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -582,7 +582,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v133', '.aud133', '.repl133', '.down133')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud133', '.aud132', '.repl133', 'r_icon_133', '.down133')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud133', '.aud132', '.repl133', '.r_icon_133', '.down133')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl133" @click="Play9('.pl133', '.repl133', '.down133')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud133" @timeupdate="Update9('.aud133', '.st133', '.audio_p133_m9')" src="../sound/Battlefield_1/21. Gallipoli.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud133', '.aud134', '.repl133', '.r_icon_133', '.down133')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_133" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down133" @click="Download9('.down133', 'Battlefield 1 - Gallipoli', '.d_icon_133')" @mouseout="down_hide9('.down133')">
+			   <div class="Download_button9 down133" @click="Download9('.down133', 'Battlefield 1 - Gallipoli')" @mouseout="down_hide9('.down133')">
 			   	  <vue-fontawesome icon="download" class="d_icon_133" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -629,7 +629,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v134', '.aud134', '.repl134', '.down134')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud134', '.aud133', '.repl134', 'r_icon_134', '.down134')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud134', '.aud133', '.repl134', '.r_icon_134', '.down134')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl134" @click="Play9('.pl134', '.repl134', '.down134')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class='aud134' @timeupdate="Update9('.aud134', '.st134', '.audio_p134_m9')" src="../sound/Battlefield_1/23. Epilogue 'We Will Fight..'.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud134', '.aud135', '.repl134', '.r_icon_134', '.down134')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_134" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down134" @click="Download9('.down134', 'Battlefield 1 - Epilogue `We will fight`', '.d_icon_134')" @mouseout="down_hide9('.down134')">
+			   <div class="Download_button9 down134" @click="Download9('.down134', 'Battlefield 1 - Epilogue `We will fight`')" @mouseout="down_hide9('.down134')">
 			   	  <vue-fontawesome icon="download" class="d_icon_134" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -676,7 +676,7 @@
 			   	  <div class="FOURTH_V" @click="C4_9('.l_of_v135', '.aud135', '.repl135', '.down135')"></div>
 			   </div>
 
-			   <button class="prev9" @click="Prev9('.aud135', '.aud134', '.repl135', 'r_icon_135', '.down135')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
+			   <button class="prev9" @click="Prev9('.aud135', '.aud134', '.repl135', '.r_icon_135', '.down135')"><vue-fontawesome icon="step-backward" size="1.25" color="black"></vue-fontawesome></button>
 			   <button class="play9 pl135" @click="Play9('.pl135', '.repl135', '.down135')"><vue-fontawesome icon="play" size="1.75" color="black"></vue-fontawesome><audio class="aud135" @timeupdate="Update9('.aud135', '.st135', '.audio_p135_m9')" src="../sound/Battlefield_1/25. Libera Me.mp3"></audio></button>
 			   <button class="next9" @click="Next9('.aud135', '.aud121', '.repl135', '.r_icon_135', '.down135')"><vue-fontawesome icon="step-forward" size="1.25" color="black"></vue-fontawesome></button>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_135" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			   <div class="Download_button9 down135" @click="Download9('.down135', 'Battlefield 1 - Epilogue `We will fight`', '.d_icon_135')" @mouseout="down_hide9('.down135')">
+			   <div class="Download_button9 down135" @click="Download9('.down135', 'Battlefield 1 - Epilogue `We will fight`')" @mouseout="down_hide9('.down135')">
 			   	  <vue-fontawesome icon="download" class="d_icon_135" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -873,48 +873,17 @@
       	}
       },
               /* Download file function() :) */
-      Download9(d_button, d_name, d_icon) {
+      Download9(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim8');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move8');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim8');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1084,7 +1053,7 @@
 
       	  opov_4_block.classList.add('show_n_block_anim');
             
-          opov_4_block.children[0].children[0].textContent = `Громкость ${opov_1_name} - 100%`;
+          opov_4_block.children[0].children[0].textContent = `Громкость ${opov_4_name} - 100%`;
 
           REPL_ELEM_6.classList.add('Rep_14');
           DOWN_ELEM_6.classList.add('d_first_anim9');
@@ -1093,7 +1062,7 @@
             REPL_ELEM_6.classList.remove('Rep_13');
             DOWN_ELEM_6.classList.remove('d_first_move9');
             REPL_ELEM_6.classList.remove('Rep_14');
-            DOWN_ELEM_6.classList.remoev('d_first_anim9');
+            DOWN_ELEM_6.classList.remove('d_first_anim9');
       	 }, 1100);
 
           setTimeout(() => {
@@ -1134,11 +1103,11 @@
       	  progrs1.children[0].style.width = `${progress}%`;
       },
 
-      Prev9(AUDIO_1, AUDIO_2, REPLAY_1, Rep_icon_1, DOWNLOAD_1) {
+      Prev9(AUDIO_1, AUDIO_2, REPLAY_1, Rep_icon_2, DOWNLOAD_1) {
       	 let aud_1 = document.querySelector(AUDIO_1);
       	 let aud_2 = document.querySelector(AUDIO_2);
       	 let REPL_1 = document.querySelector(REPLAY_1);
-      	 let REPL_icon_1 = document.querySelector(Rep_icon_1);
+      	 let REPL_icon_2 = document.querySelector(Rep_icon_2);
       	 let DOWN_1 = document.querySelector(DOWNLOAD_1);
          //let w_height = Math.max(document.body.scrollTop || document.documentElement.scrollTop);
          let opov_4_block = document.querySelector('.opoveshenie_block');
@@ -1158,7 +1127,7 @@
             if(aud_1.loop === true) {
                 aud_1.loop = false;
 
-                REPL_icon_1.style.color = 'white';
+                REPL_icon_2.style.color = 'white';
             } //После того, как нажмем кнопку у первого саундтрека все режимы должны быть в false(И повторного проигрывания, и последовательного тоже)..  НУ да, если просто поставить false, но цвет не измениться 
          }, 250);
 

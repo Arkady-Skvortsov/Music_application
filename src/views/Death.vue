@@ -41,7 +41,7 @@
 			   	  <vue-fontawesome icon="retweet" сlass="r_icon_76" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down76" @click="Download6('.down76', 'Death Stranding - Gosia', '.d_icon_76')" @mouseout="down_hide6('.down76')">
+			    <div class="Download_button6 down76" @click="Download6('.down76', 'Death Stranding - Gosia')" @mouseout="down_hide6('.down76')">
 			   	  <vue-fontawesome icon="download" class="d_icon_76" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -88,7 +88,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_77" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down77" @click="Download6('.down77', 'Death Stranding - I`ll Keep Coming', '.d_icon_77')" @mouseout="down_hide6('.down77')">
+			    <div class="Download_button6 down77" @click="Download6('.down77', 'Death Stranding - I`ll Keep Coming')" @mouseout="down_hide6('.down77')">
 			   	  <vue-fontawesome icon="download" class="d_icon_77" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -135,7 +135,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_78" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down78" @click="Download6('.down78', 'Death Stranding - Because we have to', '.d_icon_78')" @mouseout="down_hide6('.down78')">
+			    <div class="Download_button6 down78" @click="Download6('.down78', 'Death Stranding - Because we have to')" @mouseout="down_hide6('.down78')">
 			   	  <vue-fontawesome icon="download" class="d_icon_78" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -182,7 +182,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_79" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down79" @click="Download6('.down79', 'Death Stranding - Give Up', '.d_icon_79')" @mouseout="down_hide6('.down79')">
+			    <div class="Download_button6 down79" @click="Download6('.down79', 'Death Stranding - Give Up')" @mouseout="down_hide6('.down79')">
 			   	  <vue-fontawesome icon="download" class="d_icon_79" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -229,7 +229,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_80" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down80" @click="Download6('.down80', 'Death Stranding - Lou', '.d_icon_80')" @mouseout="down_hide6('.down80')">
+			    <div class="Download_button6 down80" @click="Download6('.down80', 'Death Stranding - Lou')" @mouseout="down_hide6('.down80')">
 			   	  <vue-fontawesome icon="download" class="d_icon_80" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -276,7 +276,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_81" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down81" @click="Download6('.down81', 'Death Stranding - Not Around', '.d_icon_81')" @mouseout="down_hide6('.down81')">
+			    <div class="Download_button6 down81" @click="Download6('.down81', 'Death Stranding - Not Around')" @mouseout="down_hide6('.down81')">
 			   	  <vue-fontawesome icon="download" class="d_icon_81" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -323,7 +323,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_82" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down82" @click="Download6('.down82', 'Death Stranding - Fragile', '.d_icon_82')" @mouseout="down_hide6('.down82')">
+			    <div class="Download_button6 down82" @click="Download6('.down82', 'Death Stranding - Fragile')" @mouseout="down_hide6('.down82')">
 			   	  <vue-fontawesome icon="download" class="d_icon_74" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -370,7 +370,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_83" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down83" @click="Download6('.down83', 'Death Stranding - Waiting', '.d_icon_83')" @mouseout="down_hide6('.down83')">
+			    <div class="Download_button6 down83" @click="Download6('.down83', 'Death Stranding - Waiting')" @mouseout="down_hide6('.down83')">
 			   	  <vue-fontawesome icon="download" class="d_icon_83" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -417,7 +417,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_84" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down84" @click="Download6('.down84', 'Death Stranding - Bones', '.d_icon_84')" @mouseout="down_hide6('.down84')">
+			    <div class="Download_button6 down84" @click="Download6('.down84', 'Death Stranding - Bones')" @mouseout="down_hide6('.down84')">
 			   	  <vue-fontawesome icon="download" class="d_icon_84" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -464,7 +464,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_85" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down85" @click="Download6('.down85', 'Death Stranding - Heartman', '.d_icon_85')" @mouseout="down_hide6('.down85')">
+			    <div class="Download_button6 down85" @click="Download6('.down85', 'Death Stranding - Heartman')" @mouseout="down_hide6('.down85')">
 			   	  <vue-fontawesome icon="download" class="d_icon_85" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -511,7 +511,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_86" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down86" @click="Download6('.down86', 'Death Stranding - The Machine', '.d_icon_86')" @mouseout="down_hide6('.down86')">
+			    <div class="Download_button6 down86" @click="Download6('.down86', 'Death Stranding - The Machine')" @mouseout="down_hide6('.down86')">
 			   	  <vue-fontawesome icon="download" class="d_icon_86" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -558,7 +558,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_87" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down87" @click="Download6('.down87', 'Death Stranding - Don`t be so serious', '.d_icon_87')" @mouseout="down_hide6('.down87')">
+			    <div class="Download_button6 down87" @click="Download6('.down87', 'Death Stranding - Don`t be so serious')" @mouseout="down_hide6('.down87')">
 			   	  <vue-fontawesome icon="download" class="d_icon_87" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -605,7 +605,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_88" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down88" @click="Download6('.down88', 'Death Stranding - The Face of Our New Hope', '.d_icon_88')" @mouseout="down_hide6('.down88')">
+			    <div class="Download_button6 down88" @click="Download6('.down88', 'Death Stranding - The Face of Our New Hope')" @mouseout="down_hide6('.down88')">
 			   	  <vue-fontawesome icon="download" class="d_icon_88" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -652,7 +652,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_89" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down89" @click="Download6('.down89', 'Death Stranding - BB`s theme', '.d_icon_89')" @mouseout="down_hide6('.down89')">
+			    <div class="Download_button6 down89" @click="Download6('.down89', 'Death Stranding - BB`s theme')" @mouseout="down_hide6('.down89')">
 			   	  <vue-fontawesome icon="download" class="d_icon_89" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -699,7 +699,7 @@
 			   	  <vue-fontawesome icon="retweet" class="r_icon_90" size="3" color="white"></vue-fontawesome>
 			   </div>
 
-			    <div class="Download_button6 down90" @click="Download6('.down90', 'Death Stranding - Easy Way Out', '.d_icon_90')" @mouseout="down_hide6('.down90')">
+			    <div class="Download_button6 down90" @click="Download6('.down90', 'Death Stranding - Easy Way Out')" @mouseout="down_hide6('.down90')">
 			   	  <vue-fontawesome icon="download" class="d_icon_90" size="3" color="white"></vue-fontawesome>
 			   </div>
 
@@ -873,48 +873,17 @@
       	}
       },
               /* Download file function() :) */
-      Download6(d_button, d_name, d_icon) {
+      Download6(d_button, d_name) {
       	if(confirm('Вы точно хотите скачать этот файл?')) {
       	 let down_button = document.querySelector(d_button);
       	 let down_button_audio_address = down_button.parentElement.children[5].children[1].getAttribute('src');
-      	 let ICON_D = document.querySelector(d_icon);
          let link = document.createElement('a');
-         let opov_4_block = document.querySelector('.opoveshenie_block');
-         let opov_4_name = down_button.parentElement.children[0].textContent;
 
          link.setAttribute('href', `${down_button_audio_address}`);
          link.setAttribute('download', `${d_name}.mp3`);
          link.click();
+
          return true;
-
-         ICON_D.style.color = 'gold';
-         down_button.classList.add('.d_first_anim6');
-
-         setTimeout(() => {
-         	down_button.classList.add('.d_first_move6');
-            //ICON_D.style.color = 'white';
-            down_button.classList.remove('.d_first_anim6');
-         }, 1100);
-
-         opov_4_block.classList.add('show_n_block_anim');
-            
-         opov_4_block.children[0].children[0].textContent = `${opov_4_name} поставлен на скачивание`;
-
-         setTimeout(() => {
-            opov_4_block.classList.add('show_n_block');
-         }, 710); 
-
-         setTimeout(() => {
-            opov_4_block.classList.add('fokus');
-         }, 3710);
-
-         setTimeout(() => {
-            opov_4_block.classList.add('hide_block');  
-            opov_4_block.classList.remove('show_n_block_anim');
-            opov_4_block.classList.remove('show_n_block'); 
-            opov_4_block.classList.remove('fokus');
-            opov_4_block.classList.remove('hide_block');
-         }, 4910);
         }
       }, 
 
@@ -1093,7 +1062,7 @@
             REPL_ELEM_6.classList.remove('Rep_7');
             DOWN_ELEM_6.classList.remove('d_first_move6');
             REPL_ELEM_6.classList.remove('Rep_8');
-            DOWN_ELEM_6.classList.remoev('d_first_anim6');
+            DOWN_ELEM_6.classList.remove('d_first_anim6');
       	 }, 1100);
 
           setTimeout(() => {
